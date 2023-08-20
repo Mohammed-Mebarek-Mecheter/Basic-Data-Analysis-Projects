@@ -32,20 +32,21 @@ This repository contains a data analysis project focused on the "Top 1000 Compan
 
 ## Project Setup
 
-1. Clone this repository:
+Clone this repository:
 
 ```bash
 git clone https://github.com/Mohammed-Mebarek-Mecheter/Basic-Data-Analysis-Projects.git
 cd Top 1000 Companies Details
 Install required libraries:
-bash
-Copy code
+
 pip install pandas matplotlib seaborn wordcloud
 
 Run the Python scripts mentioned in the project steps to perform the data analysis and visualization.
+```
 
-Acknowledgments
-The dataset was sourced from [https://www.kaggle.com/datasets/amritpal24/top-1000-companies-details].
+## Acknowledgments
+The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/amritpal24/top-1000-companies-details).
+
 This project is for educational and research purposes.
 Feel free to explore and modify the project to gain insights from the "Top 1000 Companies Dataset."
 
