@@ -1,549 +1,549 @@
 playerid,fname,lname,position,height,weight,birthday,country,school,draft_year,draft_round,draft_number
 1630173,Precious,Achiuwa,Forward,6.8,225,9/19/1999,Nigeria,Memphis,2020,1,20
 203500,Steven,Adams,Center,6.1,265,7/20/1993,New Zealand,Pittsburgh,2013,1,12
-1628389,Bam,Adebayo,Center Forward,6.9,255,7/18/1997,USA,Kentucky,2017,1,14
-1630534,Ochai,Agbaji,Guard,6.5,215,4/20/2000,USA,Kansas,2022,1,14
-1630583,Santi,Aldama,Forward Center,7.0,215,1/10/2001,Spain,Loyola.Maryland,2021,1,30
+1628389,Bam,Adebayo,Center Forward,6.9,255,7/18/1997,United States of America,Kentucky,2017,1,14
+1630534,Ochai,Agbaji,Guard,6.5,215,4/20/2000,United States of America,Kansas,2022,1,14
+1630583,Santi,Aldama,Forward Center,7,215,1/10/2001,Spain,Loyola.Maryland,2021,1,30
 1629638,Nickeil,Alexander.Walker,Guard,6.5,205,9/2/1998,Canada,Virginia Tech,2019,1,17
-1628960,Grayson,Allen,Guard,6.4,198,10/8/1995,USA,Duke,2018,1,21
-1628386,Jarrett,Allen,Center,6.9,243,4/21/1998,USA,Texas,2017,1,22
-1630631,Jose,Alvarado,Guard,6.0,179,4/12/1998,USA,Georgia Tech,2021,,
-203937,Kyle,Anderson,Forward Guard,6.9,230,9/20/1993,USA,UCLA,2014,1,30
-203507,Giannis,Antetokounmpo,Forward,7.0,243,12/6/1994,Greece,Filathlitikos,2013,1,15
+1628960,Grayson,Allen,Guard,6.4,198,10/8/1995,United States of America,Duke,2018,1,21
+1628386,Jarrett,Allen,Center,6.9,243,4/21/1998,United States of America,Texas,2017,1,22
+1630631,Jose,Alvarado,Guard,6,179,4/12/1998,United States of America,Georgia Tech,2021,,
+203937,Kyle,Anderson,Forward Guard,6.9,230,9/20/1993,United States of America,UCLA,2014,1,30
+203507,Giannis,Antetokounmpo,Forward,7,243,12/6/1994,Greece,Filathlitikos,2013,1,15
 1628961,Kostas,Antetokounmpo,Forward,6.1,200,11/20/1997,Greece,University of Dayton,2018,2,60
 203648,Thanasis,Antetokounmpo,Forward,6.7,219,7/18/1992,Greece,Panathinaikos,2014,2,51
-1630175,Cole,Anthony,Guard,6.3,185,5/15/2000,USA,North Carolina,2020,1,15
+1630175,Cole,Anthony,Guard,6.3,185,5/15/2000,United States of America,North Carolina,2020,1,15
 1628384,O.G.,Anunoby,Forward,6.7,232,7/17/1997,United Kingdom,Indiana,2017,1,23
-1627853,Ryan,Arcidiacono,Guard,6.3,195,3/26/1994,USA,Villanova,2017,,
-201571,D.J.,Augustin,Guard,5.1,183,11/10/1987,USA,University of Texas at Austin,2008,1,9
+1627853,Ryan,Arcidiacono,Guard,6.3,195,3/26/1994,United States of America,Villanova,2017,,
+201571,D.J.,Augustin,Guard,5.1,183,11/10/1987,United States of America,University of Texas at Austin,2008,1,9
 1630166,Deni,Avdija,Forward,6.9,210,1/3/2001,Israel,Maccabi Tel Aviv,2020,1,9
-1629028,Deandre,Ayton,Center,7.0,250,7/23/1998,Bahamas,Arizona,2018,1,1
+1629028,Deandre,Ayton,Center,7,250,7/23/1998,Bahamas,Arizona,2018,1,1
 1628962,Udoka,Azubuike,Center Forward,6.1,270,9/17/1999,Nigeria,Kansas,2020,1,27
 1630641,Ibou,Badji,Center,7.1,240,10/13/2002,Senegal,FC Barcelona,2022,,
-1628963,Marvin,Bagley III,Forward,6.1,235,3/14/1999,USA,Duke,2018,1,2
-1631116,Patrick,Baldwin,Forward,6.9,220,11/18/2002,USA,Wisconsin.Milwaukee,2022,1,28
-1630163,LaMelo,Ball,Guard,6.7,180,8/22/2001,USA,Illawarra,2020,1,3
-1628964,Mo,Bamba,Center,7.0,231,5/12/1998,USA,Texas,2018,1,6
-1631094,Paolo,Banchero,Forward,6.1,250,11/12/2002,USA,Duke,2022,1,1
-1630217,Desmond,Bane,Guard,6.5,215,6/25/1998,USA,TCU,2020,1,30
+1628963,Marvin,Bagley III,Forward,6.1,235,3/14/1999,United States of America,Duke,2018,1,2
+1631116,Patrick,Baldwin,Forward,6.9,220,11/18/2002,United States of America,Wisconsin.Milwaukee,2022,1,28
+1630163,LaMelo,Ball,Guard,6.7,180,8/22/2001,United States of America,Illawarra,2020,1,3
+1628964,Mo,Bamba,Center,7,231,5/12/1998,United States of America,Texas,2018,1,6
+1631094,Paolo,Banchero,Forward,6.1,250,11/12/2002,United States of America,Duke,2022,1,1
+1630217,Desmond,Bane,Guard,6.5,215,6/25/1998,United States of America,TCU,2020,1,30
 1630625,Dalano,Banton,Forward,6.7,204,11/7/1999,Canada,Nebraska,2021,2,46
-1631230,Dominick,Barlow,Forward,6.9,215,5/26/2003,USA,,2022,,
-203084,Harrison,Barnes,Forward,6.8,225,5/30/1992,USA,North Carolina,2012,1,7
-1630567,Scottie,Barnes,Forward,6.8,225,8/1/2001,USA,Florida State,2021,1,4
+1631230,Dominick,Barlow,Forward,6.9,215,5/26/2003,United States of America,,2022,,
+203084,Harrison,Barnes,Forward,6.8,225,5/30/1992,United States of America,North Carolina,2012,1,7
+1630567,Scottie,Barnes,Forward,6.8,225,8/1/2001,United States of America,Florida State,2021,1,4
 1629628,RJ,Barrett,Forward Guard,6.6,214,6/14/2000,Canada,Duke,2019,1,3
-203115,Will,Barton,Guard,6.5,181,1/6/1991,USA,Memphis,2012,2,40
+203115,Will,Barton,Guard,6.5,181,1/6/1991,United States of America,Memphis,2012,2,40
 1629646,Charles,Bassey,Center Forward,6.9,230,10/28/2000,Nigeria,Western Kentucky,2021,2,53
-1628966,Keita,Bates.Diop,Forward,6.8,229,1/23/1996,USA,Ohio State,2018,2,48
+1628966,Keita,Bates.Diop,Forward,6.8,229,1/23/1996,United States of America,Ohio State,2018,2,48
 201587,Nicolas,Batum,Guard Forward,6.8,230,12/14/1988,France,Le Mans,2008,1,25
-1629647,Darius,Bazley,Forward,6.9,216,6/12/2000,USA,Princeton HS (OH),2019,1,23
-203078,Bradley,Beal,Guard,6.4,207,6/28/1993,USA,Florida,2012,1,3
-1627736,Malik,Beasley,Guard,6.4,187,11/26/1996,USA,Florida State,2016,1,19
-1630699,MarJon,Beauchamp,Forward,6.7,199,10/12/2000,USA,NBA G League Ignite,2022,1,24
+1629647,Darius,Bazley,Forward,6.9,216,6/12/2000,United States of America,Princeton HS (OH),2019,1,23
+203078,Bradley,Beal,Guard,6.4,207,6/28/1993,United States of America,Florida,2012,1,3
+1627736,Malik,Beasley,Guard,6.4,187,11/26/1996,United States of America,Florida State,2016,1,19
+1630699,MarJon,Beauchamp,Forward,6.7,199,10/12/2000,United States of America,NBA G League Ignite,2022,1,24
 202722,Davis,Bertans,Forward,6.1,225,11/12/1992,Latvia,Baskonia,2011,2,42
-201976,Patrick,Beverley,Guard,6.2,180,7/12/1988,USA,Arkansas,2009,2,42
-1630180,Saddiq,Bey,Forward,6.7,215,4/9/1999,USA,Villanova,2020,1,19
+201976,Patrick,Beverley,Guard,6.2,180,7/12/1988,United States of America,Arkansas,2009,2,42
+1630180,Saddiq,Bey,Forward,6.7,215,4/9/1999,United States of America,Villanova,2020,1,19
 203920,Khem,Birch,Center,6.8,233,9/28/1992,Canada,UNLV,2017,,
 1629048,Goga,Bitadze,Center Forward,6.1,250,7/20/1999,Georgia,Mega Basket,2019,1,18
 202687,Bismack,Biyombo,Center,6.8,255,8/28/1992,DRC,Baloncesto Fuenlabrada,2011,1,7
-1631205,Buddy,Boeheim,Forward,6.6,205,11/11/1999,USA,Syracuse,2022,,
+1631205,Buddy,Boeheim,Forward,6.6,205,11/11/1999,United States of America,Syracuse,2022,,
 203992,Bogdan,Bogdanovic,Guard,6.5,225,8/18/1992,Serbia,Fenerbahce,2014,1,27
 202711,Bojan,Bogdanovic,Forward,6.7,226,4/18/1989,Croatia,Fenerbahce,2011,2,31
 1629626,Bol,Bol,Center Forward,7.2,220,11/16/1999,Sudan,Oregon,2019,2,44
 1630195,Leandro,Bolmaro,Forward,6.6,200,9/11/2000,Argentina,,2020,1,23
-1626164,Devin,Booker,Guard,6.5,206,10/30/1996,USA,Kentucky,2015,1,13
-1630527,Brandon,Boston Jr.,Guard,6.6,188,11/28/2001,USA,Kentucky,2021,2,51
+1626164,Devin,Booker,Guard,6.5,206,10/30/1996,United States of America,Kentucky,2015,1,13
+1630527,Brandon,Boston Jr.,Guard,6.6,188,11/28/2001,United States of America,Kentucky,2021,2,51
 1628449,Chris,Boucher,Forward Center,6.9,200,1/11/1993,Saint Lucia,Oregon,2017,,
-1630547,James,Bouknight,Guard,6.4,190,9/18/2000,USA,Connecticut,2021,1,11
-1631123,Jamaree,Bouyea,Guard,6.2,180,6/27/1999,USA,San Francisco,2022,,
-1628396,Tony,Bradley,Center Forward,6.1,248,1/8/1998,USA,North Carolina,2017,1,28
-1631103,Malaki,Branham,Forward,6.4,180,5/12/2003,USA,Ohio State,2022,1,20
-1629714,Jarrell,Brantley,Forward,6.5,250,6/7/1996,USA,College of Charleston,2019,2,50
-1631128,Christian,Braun,Guard,6.6,220,4/17/2001,USA,Kansas,2022,1,21
-1628969,Mikal,Bridges,Guard Forward,6.6,209,8/30/1996,USA,Villanova,2018,1,10
+1630547,James,Bouknight,Guard,6.4,190,9/18/2000,United States of America,Connecticut,2021,1,11
+1631123,Jamaree,Bouyea,Guard,6.2,180,6/27/1999,United States of America,San Francisco,2022,,
+1628396,Tony,Bradley,Center Forward,6.1,248,1/8/1998,United States of America,North Carolina,2017,1,28
+1631103,Malaki,Branham,Forward,6.4,180,5/12/2003,United States of America,Ohio State,2022,1,20
+1629714,Jarrell,Brantley,Forward,6.5,250,6/7/1996,United States of America,College of Charleston,2019,2,50
+1631128,Christian,Braun,Guard,6.6,220,4/17/2001,United States of America,Kansas,2022,1,21
+1628969,Mikal,Bridges,Guard Forward,6.6,209,8/30/1996,United States of America,Villanova,2018,1,10
 1629052,Oshae,Brissett,Forward Guard,6.7,210,6/20/1998,Canada,Syracuse,2019,,
-1627763,Malcolm,Brogdon,Guard,6.4,229,12/11/1992,USA,Virginia,2016,2,36
+1627763,Malcolm,Brogdon,Guard,6.4,229,12/11/1992,United States of America,Virginia,2016,2,36
 1628415,Dillon,Brooks,Guard Forward,6.6,225,1/22/1996,Canada,Oregon,2017,2,45
-1628971,Bruce,Brown,Guard Forward,6.4,202,8/15/1996,USA,Miami,2018,2,42
-1627759,Jaylen,Brown,Guard Forward,6.6,223,10/24/1996,USA,California,2016,1,3
-1631112,Kendall,Brown,Guard,6.7,205,5/11/2003,USA,Baylor,2022,2,48
-1629650,Moses,Brown,Center,7.2,245,10/13/1999,USA,UCLA,2019,,
-1628425,Sterling,Brown,Guard Forward,6.5,219,2/10/1995,USA,Southern Methodist,2017,2,46
-1630535,Greg,Brown III,Forward,6.7,206,9/1/2001,USA,Texas,2021,2,43
-1628972,Troy,Brown Jr.,Guard Forward,6.7,215,7/28/1999,USA,Oregon,2018,1,15
-1628973,Jalen,Brunson,Guard,6.2,190,8/31/1996,USA,Villanova,2018,2,33
-1628418,Thomas,Bryant,Center Forward,6.1,248,7/31/1997,USA,Indiana,2017,2,42
-203493,Reggie,Bullock,Guard Forward,6.6,205,3/16/1991,USA,North Carolina,2013,1,25
-202692,Alec,Burks,Guard,6.6,214,7/20/1991,USA,Colorado,2011,1,12
-1629126,Deonte,Burton,Guard Forward,6.4,240,1/31/1994,USA,Iowa State,2018,,
-1630215,Jared,Butler,Guard,6.3,193,8/25/2000,USA,Baylor,2021,2,40
-202710,Jimmy,Butler,Forward,6.7,230,9/14/1989,USA,Marquette,2011,1,30
-1631219,John,Butler Jr.,Forward,7.0,190,12/4/2002,USA,Florida State,2022,,
-1631288,Jamal,Cain,Forward,6.6,191,3/20/1999,USA,Oakland,2022,,
-203484,Kentavious,Caldwell.Pope,Guard,6.5,204,2/18/1993,USA,Georgia,2013,1,8
+1628971,Bruce,Brown,Guard Forward,6.4,202,8/15/1996,United States of America,Miami,2018,2,42
+1627759,Jaylen,Brown,Guard Forward,6.6,223,10/24/1996,United States of America,California,2016,1,3
+1631112,Kendall,Brown,Guard,6.7,205,5/11/2003,United States of America,Baylor,2022,2,48
+1629650,Moses,Brown,Center,7.2,245,10/13/1999,United States of America,UCLA,2019,,
+1628425,Sterling,Brown,Guard Forward,6.5,219,2/10/1995,United States of America,Southern Methodist,2017,2,46
+1630535,Greg,Brown III,Forward,6.7,206,9/1/2001,United States of America,Texas,2021,2,43
+1628972,Troy,Brown Jr.,Guard Forward,6.7,215,7/28/1999,United States of America,Oregon,2018,1,15
+1628973,Jalen,Brunson,Guard,6.2,190,8/31/1996,United States of America,Villanova,2018,2,33
+1628418,Thomas,Bryant,Center Forward,6.1,248,7/31/1997,United States of America,Indiana,2017,2,42
+203493,Reggie,Bullock,Guard Forward,6.6,205,3/16/1991,United States of America,North Carolina,2013,1,25
+202692,Alec,Burks,Guard,6.6,214,7/20/1991,United States of America,Colorado,2011,1,12
+1629126,Deonte,Burton,Guard Forward,6.4,240,1/31/1994,United States of America,Iowa State,2018,,
+1630215,Jared,Butler,Guard,6.3,193,8/25/2000,United States of America,Baylor,2021,2,40
+202710,Jimmy,Butler,Forward,6.7,230,9/14/1989,United States of America,Marquette,2011,1,30
+1631219,John,Butler Jr.,Forward,7,190,12/4/2002,United States of America,Florida State,2022,,
+1631288,Jamal,Cain,Forward,6.6,191,3/20/1999,United States of America,Oakland,2022,,
+203484,Kentavious,Caldwell.Pope,Guard,6.5,204,2/18/1993,United States of America,Georgia,2013,1,8
 1630267,Facundo,Campazzo,Guard,5.1,195,3/23/1991,Argentina,,2020,,
 1628427,Vlatko,Cancar,Forward,6.8,236,4/10/1997,Slovenia,San Pablo Burgos,2017,2,49
 203991,Clint,Capela,Center,6.1,256,5/18/1994,Switzerland,Elan Chalon,2014,1,25
-1630176,Vernon,Carey Jr.,Center,6.1,270,2/25/2001,USA,Duke,2020,2,32
-1628975,Jevon,Carter,Guard,6.1,200,9/14/1995,USA,West Virginia,2018,2,32
-1628976,Wendell,Carter Jr.,Center Forward,6.1,270,4/16/1999,USA,Duke,2018,1,7
-203487,Michael,Carter.Williams,Guard,6.5,190,10/10/1991,USA,Syracuse,2013,1,11
-1627936,Alex,Caruso,Guard,6.5,186,2/28/1994,USA,Texas A&M,2017,,
-1626161,Willie,Cauley.Stein,Center,7.0,240,8/18/1993,USA,Kentucky,2015,1,6
-1630577,Julian,Champagnie,Forward,6.7,217,6/29/2001,USA,St. John's,2022,,
-1630551,Justin,Champagnie,Guard Forward,6.6,206,6/29/2001,USA,Pittsburgh,2021,,
-1631113,Kennedy,Chandler,Guard,5.1,170,9/16/2002,USA,Tennessee,2022,2,38
-1631108,Max,Christie,Guard,6.5,190,2/10/2003,USA,Michigan State,2022,2,35
-1630528,Josh,Christopher,Guard,6.4,215,12/8/2001,USA,Arizona State,2021,1,24
+1630176,Vernon,Carey Jr.,Center,6.1,270,2/25/2001,United States of America,Duke,2020,2,32
+1628975,Jevon,Carter,Guard,6.1,200,9/14/1995,United States of America,West Virginia,2018,2,32
+1628976,Wendell,Carter Jr.,Center Forward,6.1,270,4/16/1999,United States of America,Duke,2018,1,7
+203487,Michael,Carter.Williams,Guard,6.5,190,10/10/1991,United States of America,Syracuse,2013,1,11
+1627936,Alex,Caruso,Guard,6.5,186,2/28/1994,United States of America,Texas A&M,2017,,
+1626161,Willie,Cauley.Stein,Center,7,240,8/18/1993,United States of America,Kentucky,2015,1,6
+1630577,Julian,Champagnie,Forward,6.7,217,6/29/2001,United States of America,St. John's,2022,,
+1630551,Justin,Champagnie,Guard Forward,6.6,206,6/29/2001,United States of America,Pittsburgh,2021,,
+1631113,Kennedy,Chandler,Guard,5.1,170,9/16/2002,United States of America,Tennessee,2022,2,38
+1631108,Max,Christie,Guard,6.5,190,2/10/2003,United States of America,Michigan State,2022,2,35
+1630528,Josh,Christopher,Guard,6.4,215,12/8/2001,United States of America,Arizona State,2021,1,24
 1629634,Brandon,Clarke,Forward,6.8,215,9/19/1996,Canada,Gonzaga,2019,1,21
-203903,Jordan,Clarkson,Guard,6.5,194,6/7/1992,USA,Missouri,2014,2,46
-1629651,Nic,Claxton,Center,6.1,215,4/17/1999,USA,Georgia,2019,2,31
-1629599,Amir,Coffey,Guard Forward,6.7,210,6/17/1997,USA,Minnesota,2019,,
-1628381,John,Collins,Forward Center,6.9,226,9/23/1997,USA,Wake Forest,2017,1,19
-1628380,Zach,Collins,Forward Center,6.1,250,11/19/1997,USA,Gonzaga,2017,1,10
-1628435,Chance,Comanche,Center,6.1,210,4/14/1996,USA,Arizona,2022,,
-201144,Mike,Conley,Guard,6.1,175,10/11/1987,USA,Ohio State,2007,1,4
-1626192,Pat,Connaughton,Guard,6.5,209,1/6/1993,USA,Notre Dame,2015,2,41
+203903,Jordan,Clarkson,Guard,6.5,194,6/7/1992,United States of America,Missouri,2014,2,46
+1629651,Nic,Claxton,Center,6.1,215,4/17/1999,United States of America,Georgia,2019,2,31
+1629599,Amir,Coffey,Guard Forward,6.7,210,6/17/1997,United States of America,Minnesota,2019,,
+1628381,John,Collins,Forward Center,6.9,226,9/23/1997,United States of America,Wake Forest,2017,1,19
+1628380,Zach,Collins,Forward Center,6.1,250,11/19/1997,United States of America,Gonzaga,2017,1,10
+1628435,Chance,Comanche,Center,6.1,210,4/14/1996,United States of America,Arizona,2022,,
+201144,Mike,Conley,Guard,6.1,175,10/11/1987,United States of America,Ohio State,2007,1,4
+1626192,Pat,Connaughton,Guard,6.5,209,1/6/1993,United States of America,Notre Dame,2015,2,41
 1641645,Xavier,Cooks,Forward,6.8,183,8/19/1995,Australia,Winthrop,2022,,
-203496,Robert,Covington,Forward,6.7,209,12/14/1990,USA,Tennessee State,2013,,
-1628470,Torrey,Craig,Forward,6.7,221,12/19/1990,USA,South Carolina Upstate,2017,,
-203109,Jae,Crowder,Forward,6.6,235,7/6/1990,USA,Marquette,2012,2,34
-1629633,Jarrett,Culver,Guard Forward,6.6,195,2/20/1999,USA,Texas Tech,2019,1,6
-1630595,Cade,Cunningham,Guard,6.7,220,9/25/2001,USA,Oklahoma State,2021,1,1
-203552,Seth,Curry,Guard,6.1,185,8/23/1990,USA,Duke,2013,,
-201939,Stephen,Curry,Guard,6.2,185,3/14/1988,USA,Davidson,2009,1,7
+203496,Robert,Covington,Forward,6.7,209,12/14/1990,United States of America,Tennessee State,2013,,
+1628470,Torrey,Craig,Forward,6.7,221,12/19/1990,United States of America,South Carolina Upstate,2017,,
+203109,Jae,Crowder,Forward,6.6,235,7/6/1990,United States of America,Marquette,2012,2,34
+1629633,Jarrett,Culver,Guard Forward,6.6,195,2/20/1999,United States of America,Texas Tech,2019,1,6
+1630595,Cade,Cunningham,Guard,6.7,220,9/25/2001,United States of America,Oklahoma State,2021,1,1
+203552,Seth,Curry,Guard,6.1,185,8/23/1990,United States of America,Duke,2013,,
+201939,Stephen,Curry,Guard,6.2,185,3/14/1988,United States of America,Davidson,2009,1,7
 1630700,Dyson,Daniels,Guard,6.7,199,3/17/2003,Australia,NBA G League Ignite,2022,1,8
-203076,Anthony,Davis,Forward Center,6.1,253,3/11/1993,USA,Kentucky,2012,1,1
-1631098,Johnny,Davis,Guard,6.4,195,2/27/2002,USA,Wisconsin,2022,1,10
-1629056,Terence,Davis,Guard,6.4,201,5/16/1997,USA,Mississippi,2019,,
-1631120,JD,Davison,Guard,6.1,195,10/3/2002,USA,Alabama,2022,2,53
-1630620,Darius,Days,Forward,6.7,245,10/20/1999,USA,Louisiana State,2022,,
-201942,DeMar,DeRozan,Guard Forward,6.6,220,8/7/1989,USA,Southern California,2009,1,9
-203473,Dewayne,Dedmon,Center,6.1,245,8/12/1989,USA,Southern California,2013,,
+203076,Anthony,Davis,Forward Center,6.1,253,3/11/1993,United States of America,Kentucky,2012,1,1
+1631098,Johnny,Davis,Guard,6.4,195,2/27/2002,United States of America,Wisconsin,2022,1,10
+1629056,Terence,Davis,Guard,6.4,201,5/16/1997,United States of America,Mississippi,2019,,
+1631120,JD,Davison,Guard,6.1,195,10/3/2002,United States of America,Alabama,2022,2,53
+1630620,Darius,Days,Forward,6.7,245,10/20/1999,United States of America,Louisiana State,2022,,
+201942,DeMar,DeRozan,Guard Forward,6.6,220,8/7/1989,United States of America,Southern California,2009,1,9
+203473,Dewayne,Dedmon,Center,6.1,245,8/12/1989,United States of America,Southern California,2013,,
 203521,Matthew,Dellavedova,Guard,6.3,200,9/8/1990,Australia,,2013,,
-1628978,Donte,DiVincenzo,Guard,6.4,203,1/31/1997,USA,Villanova,2018,1,17
+1628978,Donte,DiVincenzo,Guard,6.4,203,1/31/1997,United States of America,Villanova,2018,1,17
 1631217,Moussa,Diabate,Forward,6.1,210,1/21/2002,France,Michigan,2022,2,43
 1629603,Mamadi,Diakite,Forward,6.9,228,1/21/1997,Guinea,Virginia,2020,,
-1628977,Hamidou,Diallo,Guard,6.5,202,7/31/1998,USA,Kentucky,2018,2,45
+1628977,Hamidou,Diallo,Guard,6.5,202,7/31/1998,United States of America,Kentucky,2018,2,45
 203476,Gorgui,Dieng,Center,6.1,248,1/18/1990,Senegal,Louisville,2013,1,21
 1631172,Ousmane,Dieng,Forward,6.9,185,5/21/2003,France,New Zealand Breakers,2022,1,11
-203915,Spencer,Dinwiddie,Guard,6.5,215,4/6/1993,USA,Colorado,2014,2,38
+203915,Spencer,Dinwiddie,Guard,6.5,215,4/6/1993,United States of America,Colorado,2014,2,38
 1629029,Luka,Doncic,Forward Guard,6.7,230,2/28/1999,Slovenia,Real Madrid,2018,1,3
-1628416,Tyler,Dorsey,Guard,6.4,180,2/18/1996,USA,Oregon,2017,2,41
+1628416,Tyler,Dorsey,Guard,6.4,180,2/18/1996,United States of America,Oregon,2017,2,41
 1629652,Luguentz,Dort,Guard,6.4,220,4/19/1999,Canada,Arizona State,2019,,
-1630245,Ayo,Dosunmu,Guard,6.5,200,1/17/2000,USA,Illinois,2021,2,38
-1629653,Devon,Dotson,Guard,6.1,185,8/2/1999,USA,Kansas,2020,,
-1630288,Jeff,Dowtin Jr.,Guard,6.3,177,5/10/1997,USA,Rhode Island,2021,,
-1628408,PJ,Dozier,Guard Forward,6.6,205,10/25/1996,USA,South Carolina,2017,,
+1630245,Ayo,Dosunmu,Guard,6.5,200,1/17/2000,United States of America,Illinois,2021,2,38
+1629653,Devon,Dotson,Guard,6.1,185,8/2/1999,United States of America,Kansas,2020,,
+1630288,Jeff,Dowtin Jr.,Guard,6.3,177,5/10/1997,United States of America,Rhode Island,2021,,
+1628408,PJ,Dozier,Guard Forward,6.6,205,10/25/1996,United States of America,South Carolina,2017,,
 201609,Goran,Dragic,Guard,6.4,190,5/6/1986,Slovenia,Union Olimpija,2008,2,45
-203083,Andre,Drummond,Center,6.1,279,8/10/1993,USA,Connecticut,2012,1,9
+203083,Andre,Drummond,Center,6.1,279,8/10/1993,United States of America,Connecticut,2012,1,9
 1630537,Chris,Duarte,Guard,6.5,190,6/13/1997,Dominican Republic,Oregon,2021,1,13
-1630561,David,Duke Jr.,Guard,6.4,204,10/13/1999,USA,Providence,2021,,
-1627739,Kris,Dunn,Guard,6.3,205,3/18/1994,USA,Providence,2016,1,5
-201142,Kevin,Durant,Forward,6.1,240,9/29/1988,USA,Texas,2007,1,2
-1631105,Jalen,Duren,Center,6.1,250,11/18/2003,USA,Memphis,2022,1,13
-1631106,Tari,Eason,Forward,6.8,215,5/10/2001,USA,Louisiana State,2022,1,17
-1630162,Anthony,Edwards,Guard,6.4,225,8/5/2001,USA,Georgia,2020,1,1
-1630556,Kessler,Edwards,Forward,6.7,203,8/9/2000,USA,Pepperdine,2021,2,44
-1631165,Keon,Ellis,Guard,6.3,175,1/8/2000,USA,Alabama,2022,,
-203954,Joel,Embiid,Center Forward,7.0,280,3/16/1994,Cameroon,Kansas,2014,1,3
-1629234,Drew,Eubanks,Forward Center,6.1,245,2/1/1997,USA,Oregon State,2018,,
-202324,Derrick,Favors,Forward,6.9,265,7/15/1991,USA,Georgia Tech,2010,1,3
+1630561,David,Duke Jr.,Guard,6.4,204,10/13/1999,United States of America,Providence,2021,,
+1627739,Kris,Dunn,Guard,6.3,205,3/18/1994,United States of America,Providence,2016,1,5
+201142,Kevin,Durant,Forward,6.1,240,9/29/1988,United States of America,Texas,2007,1,2
+1631105,Jalen,Duren,Center,6.1,250,11/18/2003,United States of America,Memphis,2022,1,13
+1631106,Tari,Eason,Forward,6.8,215,5/10/2001,United States of America,Louisiana State,2022,1,17
+1630162,Anthony,Edwards,Guard,6.4,225,8/5/2001,United States of America,Georgia,2020,1,1
+1630556,Kessler,Edwards,Forward,6.7,203,8/9/2000,United States of America,Pepperdine,2021,2,44
+1631165,Keon,Ellis,Guard,6.3,175,1/8/2000,United States of America,Alabama,2022,,
+203954,Joel,Embiid,Center Forward,7,280,3/16/1994,Cameroon,Kansas,2014,1,3
+1629234,Drew,Eubanks,Forward Center,6.1,245,2/1/1997,United States of America,Oregon State,2018,,
+202324,Derrick,Favors,Forward,6.9,265,7/15/1991,United States of America,Georgia Tech,2010,1,3
 1628981,Bruno,Fernando,Forward Center,6.1,240,8/15/1998,Angola,Maryland,2019,2,34
-1627827,Dorian,Finney.Smith,Forward,6.7,220,5/4/1993,USA,Florida,2016,,
-1630201,Malachi,Flynn,Guard,6.1,175,5/9/1998,USA,San Diego State,2020,1,29
+1627827,Dorian,Finney.Smith,Forward,6.7,220,5/4/1993,United States of America,Florida,2016,,
+1630201,Malachi,Flynn,Guard,6.1,175,5/9/1998,United States of America,San Diego State,2020,1,29
 1631323,Simone,Fontecchio,Forward,6.7,209,12/9/1995,Italy,Baskonia,2022,,
-1627854,Bryn,Forbes,Guard,6.2,205,7/23/1993,USA,Michigan State,2016,,
-1630235,Trent,Forrest,Guard,6.4,210,6/12/1998,USA,Florida State,2020,,
-1630701,Michael,Foster Jr.,Forward,6.8,250,1/16/2003,USA,NBA G League Ignite,2022,,
+1627854,Bryn,Forbes,Guard,6.2,205,7/23/1993,United States of America,Michigan State,2016,,
+1630235,Trent,Forrest,Guard,6.4,210,6/12/1998,United States of America,Florida State,2020,,
+1630701,Michael,Foster Jr.,Forward,6.8,250,1/16/2003,United States of America,NBA G League Ignite,2022,,
 203095,Evan,Fournier,Guard Forward,6.6,205,10/29/1992,France,Poitiers Basket 86,2012,1,20
-1628368,De'Aaron,Fox,Guard,6.3,185,12/20/1997,USA,Kentucky,2017,1,5
-1628365,Markelle,Fultz,Guard,6.4,209,5/29/1998,USA,Washington,2017,1,1
+1628368,De'Aaron,Fox,Guard,6.3,185,12/20/1997,United States of America,Kentucky,2017,1,5
+1628365,Markelle,Fultz,Guard,6.4,209,5/29/1998,United States of America,Washington,2017,1,1
 1629117,Wenyen,Gabriel,Forward,6.9,205,3/26/1997,South Sudan,Kentucky,2018,,
-1629655,Daniel,Gafford,Forward Center,6.1,234,10/1/1998,USA,Arkansas,2019,2,38
-1629636,Darius,Garland,Guard,6.1,192,1/26/2000,USA,Vanderbilt,2019,1,5
+1629655,Daniel,Gafford,Forward Center,6.1,234,10/1/1998,United States of America,Arkansas,2019,2,38
+1629636,Darius,Garland,Guard,6.1,192,1/26/2000,United States of America,Vanderbilt,2019,1,5
 1630586,Usman,Garuba,Forward,6.8,229,3/9/2002,Spain,Real Madrid,2021,1,23
-1630568,Luka,Garza,Center,6.1,243,12/27/1998,USA,Iowa,2021,2,52
-200752,Rudy,Gay,Forward Guard,6.8,250,8/17/1986,USA,Connecticut,2006,1,8
-202331,Paul,George,Forward,6.8,220,5/2/1990,USA,Fresno State,2010,1,10
-201959,Taj,Gibson,Forward,6.9,232,6/24/1985,USA,Southern California,2009,1,26
+1630568,Luka,Garza,Center,6.1,243,12/27/1998,United States of America,Iowa,2021,2,52
+200752,Rudy,Gay,Forward Guard,6.8,250,8/17/1986,United States of America,Connecticut,2006,1,8
+202331,Paul,George,Forward,6.8,220,5/2/1990,United States of America,Fresno State,2010,1,10
+201959,Taj,Gibson,Forward,6.9,232,6/24/1985,United States of America,Southern California,2009,1,26
 1630581,Josh,Giddey,Guard,6.8,216,10/10/2002,Australia,NBA Global Academy,2021,1,6
 1628983,Shai,Gilgeous.Alexander,Guard,6.6,195,7/12/1998,Canada,Kentucky,2018,1,11
-1630264,Anthony,Gill,Forward,6.8,230,10/17/1992,USA,Virginia,2020,,
-1631367,Jacob,Gilyard,Guard,5.9,160,7/14/1998,USA,Richmond,2022,,
+1630264,Anthony,Gill,Forward,6.8,230,10/17/1992,United States of America,Virginia,2020,,
+1631367,Jacob,Gilyard,Guard,5.9,160,7/14/1998,United States of America,Richmond,2022,,
 203497,Rudy,Gobert,Center,7.1,258,6/26/1992,France,Cholet,2013,1,27
-1630692,Jordan,Goodwin,Guard,6.3,200,10/23/1998,USA,St. Louis,2021,,
-203932,Aaron,Gordon,Forward,6.8,235,9/16/1995,USA,Arizona,2014,1,4
-201569,Eric,Gordon,Guard,6.3,215,12/25/1988,USA,Indiana,2008,1,7
-1628984,Devonte',Graham,Guard,6.1,195,2/22/1995,USA,Kansas,2018,2,34
-203924,Jerami,Grant,Forward,6.8,210,3/12/1994,USA,Syracuse,2014,2,39
-1630564,RaiQuan,Gray,Forward,6.7,269,7/7/1999,USA,Florida State,2021,2,59
-1631260,AJ,Green,Guard,6.5,190,9/27/1999,USA,Northern Iowa,2022,,
-201980,Danny,Green,Guard,6.6,215,6/22/1987,USA,North Carolina,2009,2,46
-203110,Draymond,Green,Forward,6.6,230,3/4/1990,USA,Michigan State,2012,2,35
-203210,JaMychal,Green,Forward Center,6.9,227,6/21/1990,USA,Alabama,2014,,
-1630224,Jalen,Green,Guard,6.4,186,2/9/2002,USA,NBA G League Ignite,2021,1,2
-1629750,Javonte,Green,Guard,6.5,205,7/23/1993,USA,Radford,2019,,
-201145,Jeff,Green,Forward,6.8,235,8/28/1986,USA,Georgetown,2007,1,5
+1630692,Jordan,Goodwin,Guard,6.3,200,10/23/1998,United States of America,St. Louis,2021,,
+203932,Aaron,Gordon,Forward,6.8,235,9/16/1995,United States of America,Arizona,2014,1,4
+201569,Eric,Gordon,Guard,6.3,215,12/25/1988,United States of America,Indiana,2008,1,7
+1628984,Devonte',Graham,Guard,6.1,195,2/22/1995,United States of America,Kansas,2018,2,34
+203924,Jerami,Grant,Forward,6.8,210,3/12/1994,United States of America,Syracuse,2014,2,39
+1630564,RaiQuan,Gray,Forward,6.7,269,7/7/1999,United States of America,Florida State,2021,2,59
+1631260,AJ,Green,Guard,6.5,190,9/27/1999,United States of America,Northern Iowa,2022,,
+201980,Danny,Green,Guard,6.6,215,6/22/1987,United States of America,North Carolina,2009,2,46
+203110,Draymond,Green,Forward,6.6,230,3/4/1990,United States of America,Michigan State,2012,2,35
+203210,JaMychal,Green,Forward Center,6.9,227,6/21/1990,United States of America,Alabama,2014,,
+1630224,Jalen,Green,Guard,6.4,186,2/9/2002,United States of America,NBA G League Ignite,2021,1,2
+1629750,Javonte,Green,Guard,6.5,205,7/23/1993,United States of America,Radford,2019,,
+201145,Jeff,Green,Forward,6.8,235,8/28/1986,United States of America,Georgetown,2007,1,5
 1630182,Josh,Green,Guard,6.7,200,11/16/2000,Australia,Arizona,2020,1,18
-1631100,AJ,Griffin,Forward,6.6,220,8/25/2003,USA,Duke,2022,1,16
-201933,Blake,Griffin,Forward,6.9,250,3/16/1989,USA,Oklahoma,2009,1,1
-1629656,Quentin,Grimes,Guard,6.5,210,5/8/2000,USA,Houston,2021,1,25
+1631100,AJ,Griffin,Forward,6.6,220,8/25/2003,United States of America,Duke,2022,1,16
+201933,Blake,Griffin,Forward,6.9,250,3/16/1989,United States of America,Oklahoma,2009,1,1
+1629656,Quentin,Grimes,Guard,6.5,210,5/8/2000,United States of America,Houston,2021,1,25
 1629060,Rui,Hachimura,Forward,6.8,230,2/8/1998,Japan,Gonzaga,2019,1,9
-1630169,Tyrese,Haliburton,Guard,6.5,185,2/29/2000,USA,Iowa State,2020,1,12
-1631160,Jordan,Hall,Guard,6.7,215,1/14/2002,USA,Saint Joseph's,2022,,
-1630181,R.J.,Hampton,Guard,6.4,175,2/7/2001,USA,,2020,1,24
-203501,Tim,Hardaway Jr.,Guard Forward,6.5,205,3/16/1992,USA,Michigan,2013,1,24
-201935,James,Harden,Guard,6.5,220,8/26/1989,USA,Arizona State,2009,1,3
-1630702,Jaden,Hardy,Guard,6.3,198,7/5/2002,USA,NBA G League Ignite,2022,2,37
-1631199,Ron,Harper Jr.,Forward,6.5,245,4/12/2000,USA,Rutgers,2022,,
-1626149,Montrezl,Harrell,Forward Center,6.7,240,1/26/1994,USA,Louisville,2015,2,32
-203914,Gary,Harris,Guard,6.4,210,9/14/1994,USA,Michigan State,2014,1,19
-203925,Joe,Harris,Guard Forward,6.6,220,9/6/1991,USA,Virginia,2014,2,33
-1630284,Kevon,Harris,Guard,6.6,216,6/24/1997,USA,Stephen F. Austin,2022,,
-202699,Tobias,Harris,Forward,6.7,226,7/15/1992,USA,Tennessee,2011,1,19
-1627885,Shaquille,Harrison,Guard,6.4,195,10/6/1993,USA,Tulsa,2017,,
-1628404,Josh,Hart,Guard,6.4,215,3/6/1995,USA,Villanova,2017,1,30
-1628392,Isaiah,Hartenstein,Center Forward,7.0,250,5/5/1998,Germany,Zalgiris,2017,2,43
-2617,Udonis,Haslem,Forward,6.7,235,6/9/1980,USA,Florida,2003,,
-1630573,Sam,Hauser,Forward,6.7,217,12/8/1997,USA,Virginia,2021,,
-1629637,Jaxson,Hayes,Center Forward,7.0,220,5/23/2000,USA,Texas,2019,1,8
+1630169,Tyrese,Haliburton,Guard,6.5,185,2/29/2000,United States of America,Iowa State,2020,1,12
+1631160,Jordan,Hall,Guard,6.7,215,1/14/2002,United States of America,Saint Joseph's,2022,,
+1630181,R.J.,Hampton,Guard,6.4,175,2/7/2001,United States of America,,2020,1,24
+203501,Tim,Hardaway Jr.,Guard Forward,6.5,205,3/16/1992,United States of America,Michigan,2013,1,24
+201935,James,Harden,Guard,6.5,220,8/26/1989,United States of America,Arizona State,2009,1,3
+1630702,Jaden,Hardy,Guard,6.3,198,7/5/2002,United States of America,NBA G League Ignite,2022,2,37
+1631199,Ron,Harper Jr.,Forward,6.5,245,4/12/2000,United States of America,Rutgers,2022,,
+1626149,Montrezl,Harrell,Forward Center,6.7,240,1/26/1994,United States of America,Louisville,2015,2,32
+203914,Gary,Harris,Guard,6.4,210,9/14/1994,United States of America,Michigan State,2014,1,19
+203925,Joe,Harris,Guard Forward,6.6,220,9/6/1991,United States of America,Virginia,2014,2,33
+1630284,Kevon,Harris,Guard,6.6,216,6/24/1997,United States of America,Stephen F. Austin,2022,,
+202699,Tobias,Harris,Forward,6.7,226,7/15/1992,United States of America,Tennessee,2011,1,19
+1627885,Shaquille,Harrison,Guard,6.4,195,10/6/1993,United States of America,Tulsa,2017,,
+1628404,Josh,Hart,Guard,6.4,215,3/6/1995,United States of America,Villanova,2017,1,30
+1628392,Isaiah,Hartenstein,Center Forward,7,250,5/5/1998,Germany,Zalgiris,2017,2,43
+2617,Udonis,Haslem,Forward,6.7,235,6/9/1980,United States of America,Florida,2003,,
+1630573,Sam,Hauser,Forward,6.7,217,12/8/1997,United States of America,Virginia,2021,,
+1629637,Jaxson,Hayes,Center Forward,7,220,5/23/2000,United States of America,Texas,2019,1,8
 1630165,Killian,Hayes,Guard,6.5,195,7/27/2001,France,Ratiopharm Ulm,2020,1,7
-202330,Gordon,Hayward,Forward,6.7,225,3/23/1990,USA,Butler,2010,1,9
+202330,Gordon,Hayward,Forward,6.7,225,3/23/1990,United States of America,Butler,2010,1,9
 1627823,Juancho,Hernangomez,Forward,6.9,214,9/28/1995,Spain,,2016,1,15
 1626195,Willy,Hernangomez,Center Forward,6.1,250,5/27/1994,Spain,Cajasol Sevilla,2015,2,35
-1629639,Tyler,Herro,Guard,6.5,195,1/20/2000,USA,Kentucky,2019,1,13
+1629639,Tyler,Herro,Guard,6.5,195,1/20/2000,United States of America,Kentucky,2019,1,13
 1627741,Buddy,Hield,Guard,6.4,220,12/17/1992,Bahamas,Oklahoma,2016,1,6
-1629312,Haywood,Highsmith,Forward,6.5,220,12/9/1996,USA,Wheeling Jesuit,2018,,
-201588,George,Hill,Guard,6.4,188,5/4/1986,USA,Indiana.Purdue Indianapolis,2008,1,26
-1630792,Malcolm,Hill,Forward,6.6,220,10/26/1995,USA,Illinois,2021,,
-1628988,Aaron,Holiday,Guard,6.0,185,9/30/1996,USA,UCLA,2018,1,23
-201950,Jrue,Holiday,Guard,6.5,205,6/12/1990,USA,UCLA,2009,1,17
-203200,Justin,Holiday,Forward Guard,6.6,180,4/5/1989,USA,Washington,2012,,
-1626158,Richaun,Holmes,Forward,6.8,235,10/15/1993,USA,Bowling Green,2015,2,37
+1629312,Haywood,Highsmith,Forward,6.5,220,12/9/1996,United States of America,Wheeling Jesuit,2018,,
+201588,George,Hill,Guard,6.4,188,5/4/1986,United States of America,Indiana.Purdue Indianapolis,2008,1,26
+1630792,Malcolm,Hill,Forward,6.6,220,10/26/1995,United States of America,Illinois,2021,,
+1628988,Aaron,Holiday,Guard,6,185,9/30/1996,United States of America,UCLA,2018,1,23
+201950,Jrue,Holiday,Guard,6.5,205,6/12/1990,United States of America,UCLA,2009,1,17
+203200,Justin,Holiday,Forward Guard,6.6,180,4/5/1989,United States of America,Washington,2012,,
+1626158,Richaun,Holmes,Forward,6.8,235,10/15/1993,United States of America,Bowling Green,2015,2,37
 201143,Al,Horford,Center Forward,6.9,240,6/3/1986,Dominican Republic,Florida,2007,1,3
-1629659,Talen,Horton.Tucker,Guard,6.4,234,11/25/2000,USA,Iowa State,2019,2,46
-1627863,Danuel,House Jr.,Forward Guard,6.6,220,6/7/1993,USA,Texas A&M,2016,,
+1629659,Talen,Horton.Tucker,Guard,6.4,234,11/25/2000,United States of America,Iowa State,2019,2,46
+1627863,Danuel,House Jr.,Forward Guard,6.6,220,6/7/1993,United States of America,Texas A&M,2016,,
 1631216,Caleb,Houstan,Guard,6.8,205,1/9/2003,Canada,Michigan,2022,2,32
-1631309,Trevor,Hudgins,Guard,6.0,180,3/23/1999,USA,Northwest Missouri State,2022,,
-1628989,Kevin,Huerter,Guard Forward,6.7,198,8/27/1998,USA,Maryland,2018,1,19
-1630643,Jay,Huff,Center,7.1,240,8/25/1997,USA,Virginia,2021,,
-1630624,Feron,Hunt,Forward,6.8,195,7/5/1999,USA,Southern Methodist,2021,,
-1629631,De'Andre,Hunter,Forward Guard,6.8,221,12/2/1997,USA,Virginia,2019,1,4
-1630538,Bones,Hyland,Guard,6.2,169,9/14/2000,USA,Virginia Commonwealth,2021,1,26
+1631309,Trevor,Hudgins,Guard,6,180,3/23/1999,United States of America,Northwest Missouri State,2022,,
+1628989,Kevin,Huerter,Guard Forward,6.7,198,8/27/1998,United States of America,Maryland,2018,1,19
+1630643,Jay,Huff,Center,7.1,240,8/25/1997,United States of America,Virginia,2021,,
+1630624,Feron,Hunt,Forward,6.8,195,7/5/1999,United States of America,Southern Methodist,2021,,
+1629631,De'Andre,Hunter,Forward Guard,6.8,221,12/2/1997,United States of America,Virginia,2019,1,4
+1630538,Bones,Hyland,Guard,6.2,169,9/14/2000,United States of America,Virginia Commonwealth,2021,1,26
 201586,Serge,Ibaka,Forward,6.1,235,9/18/1989,Democratic Republic of the Congo,,2008,1,24
-2738,Andre,Iguodala,Guard Forward,6.6,215,1/28/1984,USA,Arizona,2004,1,9
+2738,Andre,Iguodala,Guard Forward,6.6,215,1/28/1984,United States of America,Arizona,2004,1,9
 204060,Joe,Ingles,Forward Guard,6.9,220,10/2/1987,Australia,Maccabi Tel Aviv,2014,,
-1627742,Brandon,Ingram,Forward,6.8,190,9/2/1997,USA,Duke,2016,1,2
+1627742,Brandon,Ingram,Forward,6.8,190,9/2/1997,United States of America,Duke,2016,1,2
 202681,Kyrie,Irving,Guard,6.2,195,3/23/1992,Australia,Duke,2011,1,1
-1628371,Jonathan,Isaac,Forward,6.1,230,10/3/1997,USA,Florida State,2017,1,6
-1631093,Jaden,Ivey,Guard,6.4,195,2/13/2002,USA,Purdue,2022,1,5
-1628402,Frank,Jackson,Guard,6.3,205,5/4/1998,USA,Duke,2017,2,31
-1630543,Isaiah,Jackson,Forward,6.9,205,1/10/2002,USA,Kentucky,2021,1,22
-1628382,Justin,Jackson,Forward,6.8,220,3/28/1995,USA,North Carolina,2017,1,15
-1631245,Quenton,Jackson,Guard,6.5,173,9/15/1998,USA,Texas A&M,2022,,
-202704,Reggie,Jackson,Guard,6.2,208,4/16/1990,USA,Boston College,2011,1,24
-1628991,Jaren,Jackson Jr.,Forward Center,6.1,242,9/15/1999,USA,Michigan State,2018,1,4
-2544,LeBron,James,Forward,6.9,250,12/30/1984,USA,St. Vincent.St. Mary HS (OH),2003,1,1
-1629610,DaQuan,Jeffries,Guard Forward,6.5,222,8/30/1997,USA,Tulsa,2019,,
-1629660,Ty,Jerome,Guard Forward,6.5,195,7/8/1997,USA,Virginia,2019,1,24
-1630198,Isaiah,Joe,Guard,6.3,165,7/2/1999,USA,Arkansas,2020,2,49
-1628993,Alize,Johnson,Forward,6.8,212,4/22/1996,USA,Missouri State,2018,2,50
-1629661,Cameron,Johnson,Forward,6.8,210,3/3/1996,USA,North Carolina,2019,1,11
-1630552,Jalen,Johnson,Forward,6.8,219,12/18/2001,USA,Duke,2021,1,20
-201949,James,Johnson,Forward,6.7,240,2/20/1987,USA,Wake Forest,2009,1,16
-1629640,Keldon,Johnson,Forward Guard,6.5,220,10/11/1999,USA,Kentucky,2019,1,29
-1630553,Keon,Johnson,Guard,6.3,185,3/10/2002,USA,Tennessee,2021,1,21
-1626169,Stanley,Johnson,Forward Guard,6.6,242,5/29/1996,USA,Arizona,2015,1,8
+1628371,Jonathan,Isaac,Forward,6.1,230,10/3/1997,United States of America,Florida State,2017,1,6
+1631093,Jaden,Ivey,Guard,6.4,195,2/13/2002,United States of America,Purdue,2022,1,5
+1628402,Frank,Jackson,Guard,6.3,205,5/4/1998,United States of America,Duke,2017,2,31
+1630543,Isaiah,Jackson,Forward,6.9,205,1/10/2002,United States of America,Kentucky,2021,1,22
+1628382,Justin,Jackson,Forward,6.8,220,3/28/1995,United States of America,North Carolina,2017,1,15
+1631245,Quenton,Jackson,Guard,6.5,173,9/15/1998,United States of America,Texas A&M,2022,,
+202704,Reggie,Jackson,Guard,6.2,208,4/16/1990,United States of America,Boston College,2011,1,24
+1628991,Jaren,Jackson Jr.,Forward Center,6.1,242,9/15/1999,United States of America,Michigan State,2018,1,4
+2544,LeBron,James,Forward,6.9,250,12/30/1984,United States of America,St. Vincent.St. Mary HS (OH),2003,1,1
+1629610,DaQuan,Jeffries,Guard Forward,6.5,222,8/30/1997,United States of America,Tulsa,2019,,
+1629660,Ty,Jerome,Guard Forward,6.5,195,7/8/1997,United States of America,Virginia,2019,1,24
+1630198,Isaiah,Joe,Guard,6.3,165,7/2/1999,United States of America,Arkansas,2020,2,49
+1628993,Alize,Johnson,Forward,6.8,212,4/22/1996,United States of America,Missouri State,2018,2,50
+1629661,Cameron,Johnson,Forward,6.8,210,3/3/1996,United States of America,North Carolina,2019,1,11
+1630552,Jalen,Johnson,Forward,6.8,219,12/18/2001,United States of America,Duke,2021,1,20
+201949,James,Johnson,Forward,6.7,240,2/20/1987,United States of America,Wake Forest,2009,1,16
+1629640,Keldon,Johnson,Forward Guard,6.5,220,10/11/1999,United States of America,Kentucky,2019,1,29
+1630553,Keon,Johnson,Guard,6.3,185,3/10/2002,United States of America,Tennessee,2021,1,21
+1626169,Stanley,Johnson,Forward Guard,6.6,242,5/29/1996,United States of America,Arizona,2015,1,8
 203999,Nikola,Jokic,Center,6.1,284,2/19/1995,Serbia,Mega Basket,2014,2,41
-1630637,Carlik,Jones,Guard,6.0,174,12/23/1997,USA,Louisville,2021,,
-1627745,Damian,Jones,Center,6.1,245,6/30/1995,USA,Vanderbilt,2016,1,30
-1630529,Herbert,Jones,Forward,6.7,206,10/6/1998,USA,Alabama,2021,2,35
+1630637,Carlik,Jones,Guard,6,174,12/23/1997,United States of America,Louisville,2021,,
+1627745,Damian,Jones,Center,6.1,245,6/30/1995,United States of America,Vanderbilt,2016,1,30
+1630529,Herbert,Jones,Forward,6.7,206,10/6/1998,United States of America,Alabama,2021,2,35
 1630539,Kai,Jones,Center Forward,6.1,221,1/19/2001,Bahamas,Texas,2021,1,19
-1630200,Tre,Jones,Guard,6.1,185,1/8/2000,USA,Duke,2020,2,41
-1626145,Tyus,Jones,Guard,6.2,196,5/10/1996,USA,Duke,2015,1,24
-1627884,Derrick,Jones Jr.,Forward,6.6,210,2/15/1997,USA,UNLV,2016,,
-201599,DeAndre,Jordan,Center,6.1,265,7/21/1988,USA,Texas A&M,2008,2,35
+1630200,Tre,Jones,Guard,6.1,185,1/8/2000,United States of America,Duke,2020,2,41
+1626145,Tyus,Jones,Guard,6.2,196,5/10/1996,United States of America,Duke,2015,1,24
+1627884,Derrick,Jones Jr.,Forward,6.6,210,2/15/1997,United States of America,UNLV,2016,,
+201599,DeAndre,Jordan,Center,6.1,265,7/21/1988,United States of America,Texas A&M,2008,2,35
 202709,Cory,Joseph,Guard,6.3,200,8/20/1991,Canada,Texas,2011,1,29
 1631107,Nikola,Jovic,Forward,6.1,205,6/9/2003,Serbia,Mega Basket,2022,1,27
-1630548,Johnny,Juzang,Guard,6.6,209,3/17/2001,USA,UCLA,2022,,
+1630548,Johnny,Juzang,Guard,6.6,209,3/17/2001,United States of America,UCLA,2022,,
 1629662,Mfiondu,Kabengele,Center,6.1,250,8/14/1997,Canada,Florida State,2019,1,27
-1626163,Frank,Kaminsky,Forward Center,7.0,240,4/4/1993,USA,Wisconsin,2015,1,9
-1631211,Trevor,Keels,Guard,6.4,221,8/26/2003,USA,Duke,2022,2,42
-1628379,Luke,Kennard,Guard,6.5,206,6/24/1996,USA,Duke,2017,1,12
-1631117,Walker,Kessler,Center,7.0,245,7/26/2001,USA,Auburn,2022,1,22
-1630296,Braxton,Key,Forward,6.8,225,2/14/1997,USA,Virginia,2021,,
-1629663,Louis,King,Forward,6.7,205,4/6/1999,USA,Oregon,2019,,
-1630557,Corey,Kispert,Forward,6.6,224,3/3/1999,USA,Gonzaga,2021,1,15
+1626163,Frank,Kaminsky,Forward Center,7,240,4/4/1993,United States of America,Wisconsin,2015,1,9
+1631211,Trevor,Keels,Guard,6.4,221,8/26/2003,United States of America,Duke,2022,2,42
+1628379,Luke,Kennard,Guard,6.5,206,6/24/1996,United States of America,Duke,2017,1,12
+1631117,Walker,Kessler,Center,7,245,7/26/2001,United States of America,Auburn,2022,1,22
+1630296,Braxton,Key,Forward,6.8,225,2/14/1997,United States of America,Virginia,2021,,
+1629663,Louis,King,Forward,6.7,205,4/6/1999,United States of America,Oregon,2019,,
+1630557,Corey,Kispert,Forward,6.6,224,3/3/1999,United States of America,Gonzaga,2021,1,15
 1628467,Maxi,Kleber,Forward,6.1,240,1/29/1992,Germany,Bayern Munich,2017,,
-1630233,Nathan,Knight,Forward Center,6.8,253,9/20/1997,USA,William & Mary,2020,,
-1628995,Kevin,Knox II,Forward,6.7,215,8/11/1999,USA,Kentucky,2018,1,9
-1631132,Christian,Koloko,Center,7.0,230,6/20/2000,Cameroon,Arizona,2022,2,33
-1629723,John,Konchar,Guard,6.5,210,3/22/1996,USA,Indiana.Purdue Fort Wayne,2019,,
+1630233,Nathan,Knight,Forward Center,6.8,253,9/20/1997,United States of America,William & Mary,2020,,
+1628995,Kevin,Knox II,Forward,6.7,215,8/11/1999,United States of America,Kentucky,2018,1,9
+1631132,Christian,Koloko,Center,7,230,6/20/2000,Cameroon,Arizona,2022,2,33
+1629723,John,Konchar,Guard,6.5,210,3/22/1996,United States of America,Indiana.Purdue Fort Wayne,2019,,
 1627788,Furkan,Korkmaz,Guard Forward,6.7,202,7/24/1997,Turkey,Anadolu Efes,2016,1,26
-1628436,Luke,Kornet,Center Forward,7.2,250,7/15/1995,USA,Vanderbilt,2017,,
+1628436,Luke,Kornet,Center Forward,7.2,250,7/15/1995,United States of America,Vanderbilt,2017,,
 1630249,Vit,Krejci,Guard,6.8,195,6/19/2000,Czech Republic,Zaragoza,2020,2,37
 1630228,Jonathan,Kuminga,Forward,6.7,225,10/6/2002,DRC,NBA G League Ignite,2021,1,7
-1628398,Kyle,Kuzma,Forward,6.9,221,7/24/1995,USA,Utah,2017,1,27
-1631222,Jake,LaRavia,Forward,6.7,235,11/3/2001,USA,Wake Forest,2022,1,19
-203897,Zach,LaVine,Guard,6.5,200,3/10/1995,USA,UCLA,2014,1,13
-1630237,Anthony,Lamb,Forward,6.6,227,1/20/1998,USA,Vermont,2020,,
+1628398,Kyle,Kuzma,Forward,6.9,221,7/24/1995,United States of America,Utah,2017,1,27
+1631222,Jake,LaRavia,Forward,6.7,235,11/3/2001,United States of America,Wake Forest,2022,1,19
+203897,Zach,LaVine,Guard,6.5,200,3/10/1995,United States of America,UCLA,2014,1,13
+1630237,Anthony,Lamb,Forward,6.6,227,1/20/1998,United States of America,Vermont,2020,,
 1629111,Jock,Landale,Center,6.1,255,10/25/1995,Australia,St. Mary's,2021,,
-1629641,Romeo,Langford,Guard Forward,6.5,216,10/25/1999,USA,Indiana,2019,1,14
+1629641,Romeo,Langford,Guard Forward,6.5,216,10/25/1999,United States of America,Indiana,2019,1,14
 1630639,A.J.,Lawson,Guard,6.6,179,7/15/2000,Canada,South Carolina,2022,,
-1627747,Caris,LeVert,Guard,6.6,205,8/25/1994,USA,Michigan,2016,1,20
-1627814,Damion,Lee,Guard Forward,6.5,210,10/21/1992,USA,Drexel,2017,,
-1630240,Saben,Lee,Guard,6.2,183,6/23/1999,USA,Vanderbilt,2020,2,38
+1627747,Caris,LeVert,Guard,6.6,205,8/25/1994,United States of America,Michigan,2016,1,20
+1627814,Damion,Lee,Guard Forward,6.5,210,10/21/1992,United States of America,Drexel,2017,,
+1630240,Saben,Lee,Guard,6.2,183,6/23/1999,United States of America,Vanderbilt,2020,2,38
 203458,Alex,Len,Center,7.2,250,6/16/1993,Ukraine,Maryland,2013,1,5
-202695,Kawhi,Leonard,Forward,6.7,225,6/29/1991,USA,San Diego State,2011,1,15
-203086,Meyers,Leonard,Forward Center,7.0,260,2/27/1992,USA,Illinois,2012,1,11
-1630184,Kira,Lewis Jr.,Guard,6.1,170,4/6/2001,USA,Alabama,2020,1,13
-1630604,E.J.,Liddell,Forward,6.6,240,12/18/2000,USA,Ohio State,2022,2,41
-203081,Damian,Lillard,Guard,6.2,195,7/15/1990,USA,Weber State,2012,1,6
-1629642,Nassir,Little,Forward Guard,6.5,220,2/11/2000,USA,North Carolina,2019,1,25
-1630587,Isaiah,Livers,Forward,6.6,232,7/28/1998,USA,Michigan,2021,2,42
-1631254,Kenneth,Lofton Jr.,Forward,6.6,275,8/14/2002,USA,Louisiana Tech,2022,,
-1626172,Kevon,Looney,Forward,6.9,222,2/6/1996,USA,UCLA,2015,1,30
-201572,Brook,Lopez,Center,7.1,282,4/1/1988,USA,Stanford,2008,1,10
-201577,Robin,Lopez,Center,7.0,281,4/1/1988,USA,Stanford,2008,1,15
-201567,Kevin,Love,Forward Center,6.8,251,9/7/1988,USA,UCLA,2008,1,5
-200768,Kyle,Lowry,Guard,6.0,196,3/25/1986,USA,Villanova,2006,1,24
+202695,Kawhi,Leonard,Forward,6.7,225,6/29/1991,United States of America,San Diego State,2011,1,15
+203086,Meyers,Leonard,Forward Center,7,260,2/27/1992,United States of America,Illinois,2012,1,11
+1630184,Kira,Lewis Jr.,Guard,6.1,170,4/6/2001,United States of America,Alabama,2020,1,13
+1630604,E.J.,Liddell,Forward,6.6,240,12/18/2000,United States of America,Ohio State,2022,2,41
+203081,Damian,Lillard,Guard,6.2,195,7/15/1990,United States of America,Weber State,2012,1,6
+1629642,Nassir,Little,Forward Guard,6.5,220,2/11/2000,United States of America,North Carolina,2019,1,25
+1630587,Isaiah,Livers,Forward,6.6,232,7/28/1998,United States of America,Michigan,2021,2,42
+1631254,Kenneth,Lofton Jr.,Forward,6.6,275,8/14/2002,United States of America,Louisiana Tech,2022,,
+1626172,Kevon,Looney,Forward,6.9,222,2/6/1996,United States of America,UCLA,2015,1,30
+201572,Brook,Lopez,Center,7.1,282,4/1/1988,United States of America,Stanford,2008,1,10
+201577,Robin,Lopez,Center,7,281,4/1/1988,United States of America,Stanford,2008,1,15
+201567,Kevin,Love,Forward Center,6.8,251,9/7/1988,United States of America,UCLA,2008,1,5
+200768,Kyle,Lowry,Guard,6,196,3/25/1986,United States of America,Villanova,2006,1,24
 1626168,Trey,Lyles,Forward,6.9,234,11/5/1995,Canada,Kentucky,2015,1,12
 1630177,Theo,Maledon,Guard,6.5,175,6/12/2001,France,Asvel,2020,2,34
 1630572,Sandro,Mamukelashvili,Forward Center,6.1,240,5/23/1999,Georgia,Seton Hall,2021,2,54
-1629611,Terance,Mann,Guard Forward,6.5,215,10/18/1996,USA,Florida State,2019,2,48
-1630544,Tre,Mann,Guard,6.3,178,2/3/2001,USA,Florida,2021,1,18
+1629611,Terance,Mann,Guard Forward,6.5,215,10/18/1996,United States of America,Florida State,2019,2,48
+1630544,Tre,Mann,Guard,6.3,178,2/3/2001,United States of America,Florida,2021,1,18
 1626246,Boban,Marjanovic,Center,7.4,290,8/15/1988,Serbia,,2015,,
-1628374,Lauri,Markkanen,Forward Center,7.0,240,5/22/1997,Finland,Arizona,2017,1,7
-1630230,Naji,Marshall,Forward,6.7,220,1/24/1998,USA,Xavier,2020,,
-1628997,Caleb,Martin,Forward,6.5,205,9/28/1995,USA,Nevada,2019,,
-1628998,Cody,Martin,Forward,6.6,205,9/28/1995,USA,Nevada,2019,2,36
-1631213,Tyrese,Martin,Guard,6.6,215,3/7/1999,USA,Connecticut,2022,2,51
-1630231,Kenyon,Martin Jr.,Forward,6.7,215,1/6/2001,USA,IMG Academy (FL),2020,2,52
-1629726,Garrison,Mathews,Guard,6.6,215,10/24/1996,USA,Lipscomb,2019,,
+1628374,Lauri,Markkanen,Forward Center,7,240,5/22/1997,Finland,Arizona,2017,1,7
+1630230,Naji,Marshall,Forward,6.7,220,1/24/1998,United States of America,Xavier,2020,,
+1628997,Caleb,Martin,Forward,6.5,205,9/28/1995,United States of America,Nevada,2019,,
+1628998,Cody,Martin,Forward,6.6,205,9/28/1995,United States of America,Nevada,2019,2,36
+1631213,Tyrese,Martin,Guard,6.6,215,3/7/1999,United States of America,Connecticut,2022,2,51
+1630231,Kenyon,Martin Jr.,Forward,6.7,215,1/6/2001,United States of America,IMG Academy (FL),2020,2,52
+1629726,Garrison,Mathews,Guard,6.6,215,10/24/1996,United States of America,Lipscomb,2019,,
 1631097,Bennedict,Mathurin,Guard Forward,6.5,210,6/19/2002,Canada,Arizona,2022,1,6
-202083,Wesley,Matthews,Guard,6.5,220,10/14/1986,USA,Marquette,2009,,
-1630178,Tyrese,Maxey,Guard,6.2,200,11/4/2000,USA,Kentucky,2020,1,21
-1630219,Skylar,Mays,Guard,6.4,205,9/5/1997,USA,Louisiana State,2020,2,50
-1630540,Miles,McBride,Guard,6.2,195,9/8/2000,USA,West Virginia,2021,2,36
-1630644,Mac,McClung,Guard,6.2,185,1/6/1999,USA,Texas Tech,2021,,
-203468,CJ,McCollum,Guard,6.3,190,9/19/1991,USA,Lehigh,2013,1,10
-204456,T.J.,McConnell,Guard,6.1,190,3/25/1992,USA,Arizona,2015,0,
-1630183,Jaden,McDaniels,Forward,6.9,185,9/29/2000,USA,Washington,2020,1,28
-1629667,Jalen,McDaniels,Forward Center,6.9,205,1/31/1998,USA,San Diego State,2019,2,52
-203926,Doug,McDermott,Forward,6.6,225,1/3/1992,USA,Creighton,2014,1,11
-201580,JaVale,McGee,Center Forward,7.0,270,1/19/1988,USA,Nevada,2008,1,18
-1631121,Bryce,McGowens,Guard,6.6,175,11/8/2002,USA,Nebraska,2022,2,40
-203585,Rodney,McGruder,Guard,6.4,205,7/29/1991,USA,Kansas State,2016,,
-1629162,Jordan,McLaughlin,Guard,6.0,185,4/9/1996,USA,Southern California,2019,,
-1629001,De'Anthony,Melton,Guard,6.2,200,5/28/1998,USA,Southern California,2018,2,46
-1630241,Sam,Merrill,Guard,6.4,205,5/15/1996,USA,Utah State,2020,2,60
-1629002,Chimezie,Metu,Forward Center,6.9,225,3/22/1997,USA,Southern California,2018,2,49
-203114,Khris,Middleton,Forward,6.7,222,8/12/1991,USA,Texas A&M,2012,2,39
-201988,Patty,Mills,Guard,6.0,180,8/11/1988,Australia,St. Mary's,2009,2,55
-1629003,Shake,Milton,Guard Forward,6.5,205,9/26/1996,USA,Southern Methodist,2018,2,54
-1631303,Justin,Minaya,Forward,6.7,210,3/26/1999,USA,Providence,2022,,
-1631169,Josh,Minott,Forward,6.8,205,11/25/2002,USA,Memphis,2022,2,45
-1630558,Davion,Mitchell,Guard,6.0,202,9/5/1998,USA,Baylor,2021,1,9
-1628378,Donovan,Mitchell,Guard,6.1,215,9/7/1996,USA,Louisville,2017,1,13
-1630596,Evan,Mobley,Center,6.1,215,6/18/2001,USA,Southern California,2021,1,3
-1630600,Isaiah,Mobley,Forward,6.8,238,9/24/1999,USA,Southern California,2022,2,49
+202083,Wesley,Matthews,Guard,6.5,220,10/14/1986,United States of America,Marquette,2009,,
+1630178,Tyrese,Maxey,Guard,6.2,200,11/4/2000,United States of America,Kentucky,2020,1,21
+1630219,Skylar,Mays,Guard,6.4,205,9/5/1997,United States of America,Louisiana State,2020,2,50
+1630540,Miles,McBride,Guard,6.2,195,9/8/2000,United States of America,West Virginia,2021,2,36
+1630644,Mac,McClung,Guard,6.2,185,1/6/1999,United States of America,Texas Tech,2021,,
+203468,CJ,McCollum,Guard,6.3,190,9/19/1991,United States of America,Lehigh,2013,1,10
+204456,T.J.,McConnell,Guard,6.1,190,3/25/1992,United States of America,Arizona,2015,0,
+1630183,Jaden,McDaniels,Forward,6.9,185,9/29/2000,United States of America,Washington,2020,1,28
+1629667,Jalen,McDaniels,Forward Center,6.9,205,1/31/1998,United States of America,San Diego State,2019,2,52
+203926,Doug,McDermott,Forward,6.6,225,1/3/1992,United States of America,Creighton,2014,1,11
+201580,JaVale,McGee,Center Forward,7,270,1/19/1988,United States of America,Nevada,2008,1,18
+1631121,Bryce,McGowens,Guard,6.6,175,11/8/2002,United States of America,Nebraska,2022,2,40
+203585,Rodney,McGruder,Guard,6.4,205,7/29/1991,United States of America,Kansas State,2016,,
+1629162,Jordan,McLaughlin,Guard,6,185,4/9/1996,United States of America,Southern California,2019,,
+1629001,De'Anthony,Melton,Guard,6.2,200,5/28/1998,United States of America,Southern California,2018,2,46
+1630241,Sam,Merrill,Guard,6.4,205,5/15/1996,United States of America,Utah State,2020,2,60
+1629002,Chimezie,Metu,Forward Center,6.9,225,3/22/1997,United States of America,Southern California,2018,2,49
+203114,Khris,Middleton,Forward,6.7,222,8/12/1991,United States of America,Texas A&M,2012,2,39
+201988,Patty,Mills,Guard,6,180,8/11/1988,Australia,St. Mary's,2009,2,55
+1629003,Shake,Milton,Guard Forward,6.5,205,9/26/1996,United States of America,Southern Methodist,2018,2,54
+1631303,Justin,Minaya,Forward,6.7,210,3/26/1999,United States of America,Providence,2022,,
+1631169,Josh,Minott,Forward,6.8,205,11/25/2002,United States of America,Memphis,2022,2,45
+1630558,Davion,Mitchell,Guard,6,202,9/5/1998,United States of America,Baylor,2021,1,9
+1628378,Donovan,Mitchell,Guard,6.1,215,9/7/1996,United States of America,Louisville,2017,1,13
+1630596,Evan,Mobley,Center,6.1,215,6/18/2001,United States of America,Southern California,2021,1,3
+1630600,Isaiah,Mobley,Forward,6.8,238,9/24/1999,United States of America,Southern California,2022,2,49
 1631320,Chima,Moneke,Forward,6.5,223,12/24/1995,Nigeria,Cal.Davis,2022,,
-1628370,Malik,Monk,Guard,6.3,200,2/4/1998,USA,Kentucky,2017,1,11
-1630541,Moses,Moody,Guard,6.5,211,5/31/2002,USA,Arkansas,2021,1,14
-1629875,Xavier,Moon,Guard,6.0,165,1/2/1995,USA,Morehead State,2021,,
-1631111,Wendell,Moore Jr.,Guard,6.5,215,9/18/2001,USA,Duke,2022,1,26
-1629630,Ja,Morant,Guard,6.2,174,8/10/1999,USA,Murray State,2019,1,2
-202693,Markieff,Morris,Forward,6.9,245,9/2/1989,USA,Kansas,2011,1,13
-1628420,Monte,Morris,Guard,6.2,183,6/27/1995,USA,Iowa State,2017,2,51
-202694,Marcus,Morris Sr.,Forward,6.8,218,9/2/1989,USA,Kansas,2011,1,14
-1630530,Trey,Murphy III,Forward,6.8,206,6/18/2000,USA,Virginia,2021,1,17
-1627749,Dejounte,Murray,Guard,6.5,180,9/19/1996,USA,Washington,2016,1,29
+1628370,Malik,Monk,Guard,6.3,200,2/4/1998,United States of America,Kentucky,2017,1,11
+1630541,Moses,Moody,Guard,6.5,211,5/31/2002,United States of America,Arkansas,2021,1,14
+1629875,Xavier,Moon,Guard,6,165,1/2/1995,United States of America,Morehead State,2021,,
+1631111,Wendell,Moore Jr.,Guard,6.5,215,9/18/2001,United States of America,Duke,2022,1,26
+1629630,Ja,Morant,Guard,6.2,174,8/10/1999,United States of America,Murray State,2019,1,2
+202693,Markieff,Morris,Forward,6.9,245,9/2/1989,United States of America,Kansas,2011,1,13
+1628420,Monte,Morris,Guard,6.2,183,6/27/1995,United States of America,Iowa State,2017,2,51
+202694,Marcus,Morris Sr.,Forward,6.8,218,9/2/1989,United States of America,Kansas,2011,1,14
+1630530,Trey,Murphy III,Forward,6.8,206,6/18/2000,United States of America,Virginia,2021,1,17
+1627749,Dejounte,Murray,Guard,6.5,180,9/19/1996,United States of America,Washington,2016,1,29
 1627750,Jamal,Murray,Guard,6.4,215,2/23/1997,Canada,Kentucky,2016,1,7
-1631099,Keegan,Murray,Forward,6.8,225,8/19/2000,USA,Iowa,2022,1,4
-203488,Mike,Muscala,Forward Center,6.1,240,7/1/1991,USA,Bucknell,2013,2,44
+1631099,Keegan,Murray,Forward,6.8,225,8/19/2000,United States of America,Iowa,2022,1,4
+203488,Mike,Muscala,Forward Center,6.1,240,7/1/1991,United States of America,Bucknell,2013,2,44
 1629004,Svi,Mykhailiuk,Guard Forward,6.7,205,6/10/1997,Ukraine,Kansas,2018,2,47
-1626204,Larry,Nance Jr.,Forward Center,6.8,245,1/1/1993,USA,Wyoming,2015,1,27
+1626204,Larry,Nance Jr.,Forward Center,6.8,245,1/1/1993,United States of America,Wyoming,2015,1,27
 1629614,Andrew,Nembhard,Guard Forward,6.3,191,1/16/2000,Canada,Gonzaga,2022,2,31
-1630174,Aaron,Nesmith,Guard Forward,6.5,215,10/16/1999,USA,Vanderbilt,2020,1,14
+1630174,Aaron,Nesmith,Guard Forward,6.5,215,10/16/1999,United States of America,Vanderbilt,2020,1,14
 203526,Raul,Neto,Guard,6.2,180,5/19/1992,Brazil,Murcia,2013,2,47
-1627777,Georges,Niang,Forward,6.7,230,6/17/1993,USA,Iowa State,2016,2,50
-1630227,Daishen,Nix,Guard,6.4,226,2/13/2002,USA,,2021,,
-1630192,Zeke,Nnaji,Forward Center,6.9,240,1/9/2001,USA,Arizona,2020,1,22
-203457,Nerlens,Noel,Center Forward,6.1,220,4/10/1994,USA,Kentucky,2013,1,6
-1629669,Jaylen,Nowell,Guard,6.4,201,7/9/1999,USA,Washington,2019,2,43
+1627777,Georges,Niang,Forward,6.7,230,6/17/1993,United States of America,Iowa State,2016,2,50
+1630227,Daishen,Nix,Guard,6.4,226,2/13/2002,United States of America,,2021,,
+1630192,Zeke,Nnaji,Forward Center,6.9,240,1/9/2001,United States of America,Arizona,2020,1,22
+203457,Nerlens,Noel,Center Forward,6.1,220,4/10/1994,United States of America,Kentucky,2013,1,6
+1629669,Jaylen,Nowell,Guard,6.4,201,7/9/1999,United States of America,Washington,2019,2,43
 1628373,Frank,Ntilikina,Guard,6.4,200,7/28/1998,France,Strasbourg IG,2017,1,8
-1629134,Kendrick,Nunn,Guard,6.3,190,8/3/1995,USA,Oakland,2018,,
-203994,Jusuf,Nurkic,Center,7.0,290,8/23/1994,Bosnia and Herzegovina,Cedevita,2014,1,16
-1629670,Jordan,Nwora,Forward,6.9,225,9/9/1998,USA,Louisville,2020,2,45
-1626220,Royce,O'Neale,Forward,6.6,226,6/5/1993,USA,Baylor,2017,,
-1629643,Chuma,Okeke,Forward,6.8,229,8/18/1998,USA,Auburn,2019,1,16
+1629134,Kendrick,Nunn,Guard,6.3,190,8/3/1995,United States of America,Oakland,2018,,
+203994,Jusuf,Nurkic,Center,7,290,8/23/1994,Bosnia and Herzegovina,Cedevita,2014,1,16
+1629670,Jordan,Nwora,Forward,6.9,225,9/9/1998,United States of America,Louisville,2020,2,45
+1626220,Royce,O'Neale,Forward,6.6,226,6/5/1993,United States of America,Baylor,2017,,
+1629643,Chuma,Okeke,Forward,6.8,229,8/18/1998,United States of America,Auburn,2019,1,16
 1629006,Josh,Okogie,Guard,6.4,213,9/1/1998,Nigeria,Georgia Tech,2018,1,20
-1630168,Onyeka,Okongwu,Forward Center,6.9,240,12/11/2000,USA,Southern California,2020,1,6
-1630171,Isaac,Okoro,Forward Guard,6.5,225,1/26/2001,USA,Auburn,2020,1,5
-1629644,KZ,Okpala,Forward Guard,6.8,215,4/28/1999,USA,Stanford,2019,2,32
-203506,Victor,Oladipo,Guard,6.3,213,5/4/1992,USA,Indiana,2013,1,2
+1630168,Onyeka,Okongwu,Forward Center,6.9,240,12/11/2000,United States of America,Southern California,2020,1,6
+1630171,Isaac,Okoro,Forward Guard,6.5,225,1/26/2001,United States of America,Auburn,2020,1,5
+1629644,KZ,Okpala,Forward Guard,6.8,215,4/28/1999,United States of America,Stanford,2019,2,32
+203506,Victor,Oladipo,Guard,6.3,213,5/4/1992,United States of America,Indiana,2013,1,2
 203482,Kelly,Olynyk,Forward Center,6.1,240,4/19/1991,Canada,Gonzaga,2013,1,13
 1630647,Eugene,Omoruyi,Forward,6.6,235,2/14/1997,Nigeria,Oregon,2021,,
 1626224,Cedi,Osman,Forward,6.7,230,4/8/1995,Turkey,Anadolu Efes,2015,2,31
-1626162,Kelly,Oubre Jr.,Forward Guard,6.6,203,12/9/1995,USA,Kansas,2015,1,15
-101108,Chris,Paul,Guard,6.0,175,5/6/1985,USA,Wake Forest,2005,1,4
-1626166,Cameron,Payne,Guard,6.1,183,8/8/1994,USA,Murray State,2015,1,14
-1627780,Gary,Payton II,Guard,6.2,195,12/1/1992,USA,Oregon State,2016,,
-1629033,Theo,Pinson,Guard Forward,6.7,212,11/5/1995,USA,North Carolina,2018,,
-1630590,Scotty,Pippen Jr.,Guard,6.1,170,11/10/2000,USA,Vanderbilt,2022,,
-203486,Mason,Plumlee,Forward Center,7.0,254,3/5/1990,USA,Duke,2013,1,22
+1626162,Kelly,Oubre Jr.,Forward Guard,6.6,203,12/9/1995,United States of America,Kansas,2015,1,15
+101108,Chris,Paul,Guard,6,175,5/6/1985,United States of America,Wake Forest,2005,1,4
+1626166,Cameron,Payne,Guard,6.1,183,8/8/1994,United States of America,Murray State,2015,1,14
+1627780,Gary,Payton II,Guard,6.2,195,12/1/1992,United States of America,Oregon State,2016,,
+1629033,Theo,Pinson,Guard Forward,6.7,212,11/5/1995,United States of America,North Carolina,2018,,
+1630590,Scotty,Pippen Jr.,Guard,6.1,170,11/10/2000,United States of America,Vanderbilt,2022,,
+203486,Mason,Plumlee,Forward Center,7,254,3/5/1990,United States of America,Duke,2013,1,22
 1627751,Jakob,Poeltl,Center,7.1,245,10/15/1995,Austria,Utah,2016,1,9
-1630197,Aleksej,Pokusevski,Forward,7.0,210,12/26/2001,Serbia,Olympiacos,2020,1,17
-1629673,Jordan,Poole,Guard,6.4,194,6/19/1999,USA,Michigan,2019,1,28
-1629645,Kevin,Porter Jr.,Guard Forward,6.4,203,5/4/2000,USA,Southern California,2019,1,30
-1629008,Michael,Porter Jr.,Forward,6.1,218,6/29/1998,USA,Missouri,2018,1,14
-203490,Otto,Porter Jr.,Forward,6.8,198,6/3/1993,USA,Georgetown,2013,1,3
-1626171,Bobby,Portis,Forward,6.1,250,2/10/1995,USA,Arkansas,2015,1,22
+1630197,Aleksej,Pokusevski,Forward,7,210,12/26/2001,Serbia,Olympiacos,2020,1,17
+1629673,Jordan,Poole,Guard,6.4,194,6/19/1999,United States of America,Michigan,2019,1,28
+1629645,Kevin,Porter Jr.,Guard Forward,6.4,203,5/4/2000,United States of America,Southern California,2019,1,30
+1629008,Michael,Porter Jr.,Forward,6.1,218,6/29/1998,United States of America,Missouri,2018,1,14
+203490,Otto,Porter Jr.,Forward,6.8,198,6/3/1993,United States of America,Georgetown,2013,1,3
+1626171,Bobby,Portis,Forward,6.1,250,2/10/1995,United States of America,Arkansas,2015,1,22
 204001,Kristaps,Porzingis,Forward Center,7.3,240,8/2/1995,Latvia,Cajasol Sevilla,2015,1,4
-1630695,Micah,Potter,Center,6.8,248,4/6/1998,USA,Wisconsin,2021,,
+1630695,Micah,Potter,Center,6.8,248,4/6/1998,United States of America,Wisconsin,2021,,
 203939,Dwight,Powell,Forward Center,6.1,240,7/20/1991,Canada,Stanford,2014,2,45
-1626181,Norman,Powell,Guard,6.4,215,5/25/1993,USA,UCLA,2015,2,46
-1630554,Jason,Preston,Guard,6.3,181,8/10/1999,USA,Ohio,2021,2,33
+1626181,Norman,Powell,Guard,6.4,215,5/25/1993,United States of America,UCLA,2015,2,46
+1630554,Jason,Preston,Guard,6.3,181,8/10/1999,United States of America,Ohio,2021,2,33
 1630563,Joshua,Primo,Guard,6.6,189,12/24/2002,Canada,Alabama,2021,1,12
-1627752,Taurean,Prince,Forward,6.6,218,3/22/1994,USA,Baylor,2016,1,12
-1630202,Payton,Pritchard,Guard,6.1,195,1/28/1998,USA,Oregon,2020,1,26
-1630243,Trevelin,Queen,Guard,6.6,190,2/25/1997,USA,New Mexico State,2021,,
-1629674,Neemias,Queta,Center,7.0,248,7/13/1999,Portugal,Utah State,2021,2,39
-1630193,Immanuel,Quickley,Guard,6.2,190,6/17/1999,USA,Kentucky,2020,1,25
-1631311,Lester,Quinones,Guard,6.4,208,11/16/2000,USA,Memphis,2022,,
-203944,Julius,Randle,Forward Center,6.8,250,11/29/1994,USA,Kentucky,2014,1,7
-1630559,Austin,Reaves,Guard,6.5,197,5/29/1998,USA,Oklahoma,2021,,
-1629629,Cam,Reddish,Forward Guard,6.7,217,9/1/1999,USA,Duke,2019,1,10
-1628432,Davon,Reed,Guard,6.5,206,6/11/1995,USA,Miami,2017,2,32
-1630194,Paul,Reed,Forward,6.9,210,6/14/1999,USA,DePaul,2020,2,58
-1629675,Naz,Reid,Center Forward,6.9,264,8/26/1999,USA,Louisiana State,2019,,
-1631197,Jared,Rhoden,Guard,6.6,210,8/27/1999,USA,Seton Hall,2022,,
-1630208,Nick,Richards,Center,7.0,245,11/29/1997,Jamaica,Kentucky,2020,2,42
-1626196,Josh,Richardson,Guard,6.6,200,9/15/1993,USA,Tennessee,2015,2,40
-203085,Austin,Rivers,Guard,6.4,200,8/1/1992,USA,Duke,2012,1,10
-1629130,Duncan,Robinson,Forward,6.7,215,4/22/1994,USA,Michigan,2018,,
-1629011,Mitchell,Robinson,Center Forward,7.0,240,4/1/1998,USA,Western Kentucky,2018,2,36
-1631115,Orlando,Robinson,Center,6.1,235,7/10/2000,USA,Fresno State,2022,,
-1630526,Jeremiah,Robinson.Earl,Forward,6.8,240,11/3/2000,USA,Villanova,2021,2,32
-1629676,Isaiah,Roby,Forward,6.8,230,2/3/1998,USA,Nebraska,2019,2,45
-1631223,David,Roddy,Forward,6.4,255,3/27/2001,USA,Colorado State,2022,1,23
-1631157,Ryan,Rollins,Guard,6.3,180,7/3/2002,USA,Toledo,2022,2,44
-201565,Derrick,Rose,Guard,6.3,200,10/4/1988,USA,Memphis,2008,1,1
-203082,Terrence,Ross,Guard Forward,6.7,206,2/5/1991,USA,Washington,2012,1,8
-1626179,Terry,Rozier,Guard,6.1,190,3/17/1994,USA,Louisville,2015,1,16
+1627752,Taurean,Prince,Forward,6.6,218,3/22/1994,United States of America,Baylor,2016,1,12
+1630202,Payton,Pritchard,Guard,6.1,195,1/28/1998,United States of America,Oregon,2020,1,26
+1630243,Trevelin,Queen,Guard,6.6,190,2/25/1997,United States of America,New Mexico State,2021,,
+1629674,Neemias,Queta,Center,7,248,7/13/1999,Portugal,Utah State,2021,2,39
+1630193,Immanuel,Quickley,Guard,6.2,190,6/17/1999,United States of America,Kentucky,2020,1,25
+1631311,Lester,Quinones,Guard,6.4,208,11/16/2000,United States of America,Memphis,2022,,
+203944,Julius,Randle,Forward Center,6.8,250,11/29/1994,United States of America,Kentucky,2014,1,7
+1630559,Austin,Reaves,Guard,6.5,197,5/29/1998,United States of America,Oklahoma,2021,,
+1629629,Cam,Reddish,Forward Guard,6.7,217,9/1/1999,United States of America,Duke,2019,1,10
+1628432,Davon,Reed,Guard,6.5,206,6/11/1995,United States of America,Miami,2017,2,32
+1630194,Paul,Reed,Forward,6.9,210,6/14/1999,United States of America,DePaul,2020,2,58
+1629675,Naz,Reid,Center Forward,6.9,264,8/26/1999,United States of America,Louisiana State,2019,,
+1631197,Jared,Rhoden,Guard,6.6,210,8/27/1999,United States of America,Seton Hall,2022,,
+1630208,Nick,Richards,Center,7,245,11/29/1997,Jamaica,Kentucky,2020,2,42
+1626196,Josh,Richardson,Guard,6.6,200,9/15/1993,United States of America,Tennessee,2015,2,40
+203085,Austin,Rivers,Guard,6.4,200,8/1/1992,United States of America,Duke,2012,1,10
+1629130,Duncan,Robinson,Forward,6.7,215,4/22/1994,United States of America,Michigan,2018,,
+1629011,Mitchell,Robinson,Center Forward,7,240,4/1/1998,United States of America,Western Kentucky,2018,2,36
+1631115,Orlando,Robinson,Center,6.1,235,7/10/2000,United States of America,Fresno State,2022,,
+1630526,Jeremiah,Robinson.Earl,Forward,6.8,240,11/3/2000,United States of America,Villanova,2021,2,32
+1629676,Isaiah,Roby,Forward,6.8,230,2/3/1998,United States of America,Nebraska,2019,2,45
+1631223,David,Roddy,Forward,6.4,255,3/27/2001,United States of America,Colorado State,2022,1,23
+1631157,Ryan,Rollins,Guard,6.3,180,7/3/2002,United States of America,Toledo,2022,2,44
+201565,Derrick,Rose,Guard,6.3,200,10/4/1988,United States of America,Memphis,2008,1,1
+203082,Terrence,Ross,Guard Forward,6.7,206,2/5/1991,United States of America,Washington,2012,1,8
+1626179,Terry,Rozier,Guard,6.1,190,3/17/1994,United States of America,Louisville,2015,1,16
 201937,Ricky,Rubio,Guard,6.2,190,10/21/1990,Spain,FC Barcelona,2009,1,5
-1626156,D'Angelo,Russell,Guard,6.4,193,2/23/1996,USA,Ohio State,2015,1,2
-1630346,Matt,Ryan,Forward,6.6,215,4/17/1997,USA,Tennessee.Chattanooga,2021,,
+1626156,D'Angelo,Russell,Guard,6.4,193,2/23/1996,United States of America,Ohio State,2015,1,2
+1630346,Matt,Ryan,Forward,6.6,215,4/17/1997,United States of America,Tennessee.Chattanooga,2021,,
 1627734,Domantas,Sabonis,Forward Center,7.1,240,5/3/1996,Lithuania,Gonzaga,2016,1,11
 1629677,Luka,Samanic,Forward,6.1,227,1/9/2000,Croatia,Union Olimpija,2019,1,19
 203967,Dario,Saric,Forward Center,6.1,225,4/8/1994,Croatia,Anadolu Efes,2014,1,12
 1630846,Olivier,Sarr,Center,6.1,240,2/20/1999,France,Kentucky,2021,,
-1630648,Jordan,Schakel,Guard,6.6,200,6/13/1998,USA,San Diego State,2021,,
+1630648,Jordan,Schakel,Guard,6.6,200,6/13/1998,United States of America,San Diego State,2021,,
 1629678,Admiral,Schofield,Forward,6.5,241,3/30/1997,United Kingdom,Tennessee,2019,2,42
 203471,Dennis,Schroder,Guard,6.1,172,9/15/1993,Germany,Braunschweig,2013,1,17
-1630206,Jay,Scrubb,Guard,6.5,220,9/1/2000,USA,John A. Logan,2020,2,55
-1631220,Dereon,Seabron,Guard,6.5,180,5/26/2000,USA,North Carolina State,2022,,
+1630206,Jay,Scrubb,Guard,6.5,220,9/1/2000,United States of America,John A. Logan,2020,2,55
+1631220,Dereon,Seabron,Guard,6.5,180,5/26/2000,United States of America,North Carolina State,2022,,
 1630578,Alperen,Sengun,Center,6.1,243,7/25/2002,Turkey,Besiktas,2021,1,16
-1629012,Collin,Sexton,Guard,6.2,190,1/4/1999,USA,Alabama,2018,1,8
-1629013,Landry,Shamet,Guard,6.4,190,3/13/1997,USA,Wichita State,2018,1,26
-1630549,Day'Ron,Sharpe,Center,6.9,265,11/6/2001,USA,North Carolina,2021,1,29
+1629012,Collin,Sexton,Guard,6.2,190,1/4/1999,United States of America,Alabama,2018,1,8
+1629013,Landry,Shamet,Guard,6.4,190,3/13/1997,United States of America,Wichita State,2018,1,26
+1630549,Day'Ron,Sharpe,Center,6.9,265,11/6/2001,United States of America,North Carolina,2021,1,29
 1631101,Shaedon,Sharpe,Guard,6.5,200,5/30/2003,Canada,Kentucky,2022,1,7
 1627783,Pascal,Siakam,Forward,6.8,230,4/2/1994,Cameroon,New Mexico State,2016,1,27
 1629735,Chris,Silva,Forward,6.8,234,9/19/1996,Gabon,South Carolina,2019,,
 1627732,Ben,Simmons,Guard Forward,6.1,240,7/20/1996,Australia,Louisiana State,2016,1,1
-1628424,Kobi,Simmons,Guard,6.5,180,7/4/1997,USA,Arizona,2017,,
-1630250,Marko,Simonovic,Center,7.0,220,10/15/1999,Montenegro,,2020,2,44
-1629014,Anfernee,Simons,Guard,6.3,181,6/8/1999,USA,Edgewater HS (FL),2018,1,24
-1630579,Jericho,Sims,Center,6.1,250,10/20/1998,USA,Texas,2021,2,58
-203935,Marcus,Smart,Guard,6.4,220,3/6/1994,USA,Oklahoma State,2014,1,6
-1630696,Dru,Smith,Guard,6.3,203,12/30/1997,USA,Missouri,2022,,
-202397,Ish,Smith,Guard,6.0,175,7/5/1988,USA,Wake Forest,2010,,
-1630188,Jalen,Smith,Forward Center,6.9,215,3/16/2000,USA,Maryland,2020,1,10
-1628372,Dennis,Smith Jr.,Guard,6.2,205,11/25/1997,USA,North Carolina State,2017,1,9
-1631095,Jabari,Smith Jr.,Forward,6.1,220,5/13/2003,USA,Auburn,2022,1,3
-1630270,Xavier,Sneed,Forward,6.5,215,12/21/1997,USA,Kansas State,2021,,
+1628424,Kobi,Simmons,Guard,6.5,180,7/4/1997,United States of America,Arizona,2017,,
+1630250,Marko,Simonovic,Center,7,220,10/15/1999,Montenegro,,2020,2,44
+1629014,Anfernee,Simons,Guard,6.3,181,6/8/1999,United States of America,Edgewater HS (FL),2018,1,24
+1630579,Jericho,Sims,Center,6.1,250,10/20/1998,United States of America,Texas,2021,2,58
+203935,Marcus,Smart,Guard,6.4,220,3/6/1994,United States of America,Oklahoma State,2014,1,6
+1630696,Dru,Smith,Guard,6.3,203,12/30/1997,United States of America,Missouri,2022,,
+202397,Ish,Smith,Guard,6,175,7/5/1988,United States of America,Wake Forest,2010,,
+1630188,Jalen,Smith,Forward Center,6.9,215,3/16/2000,United States of America,Maryland,2020,1,10
+1628372,Dennis,Smith Jr.,Guard,6.2,205,11/25/1997,United States of America,North Carolina State,2017,1,9
+1631095,Jabari,Smith Jr.,Forward,6.1,220,5/13/2003,United States of America,Auburn,2022,1,3
+1630270,Xavier,Sneed,Forward,6.5,215,12/21/1997,United States of America,Kansas State,2021,,
 1631110,Jeremy,Sochan,Forward,6.8,230,5/20/2003,Poland,Baylor,2022,1,9
-1630531,Jaden,Springer,Guard,6.4,202,9/25/2002,USA,Tennessee,2021,1,28
-1630205,Lamar,Stevens,Forward,6.6,230,7/9/1997,USA,Penn State,2020,,
-1630191,Isaiah,Stewart,Forward Center,6.8,250,5/22/2001,USA,Washington,2020,1,16
-1629622,Max,Strus,Guard Forward,6.5,215,3/28/1996,USA,DePaul,2019,,
-1630591,Jalen,Suggs,Guard,6.5,205,6/3/2001,USA,Gonzaga,2021,1,5
-1628410,Edmond,Sumner,Guard,6.4,196,12/31/1995,USA,Xavier,2017,2,52
-1631306,Cole,Swider,Forward,6.9,220,5/8/1999,USA,Syracuse,2022,,
-1630256,Jae'Sean,Tate,Forward,6.5,230,10/28/1995,USA,Ohio State,2020,,
-1628369,Jayson,Tatum,Forward Guard,6.8,210,3/3/1998,USA,Duke,2017,1,3
-1630678,Terry,Taylor,Forward,6.4,230,9/23/1999,USA,Austin Peay,2021,,
-202066,Garrett,Temple,Guard Forward,6.6,195,5/8/1986,USA,Louisiana State,2009,,
-1631207,Dalen,Terry,Forward,6.7,195,7/12/2002,USA,Arizona,2022,1,18
+1630531,Jaden,Springer,Guard,6.4,202,9/25/2002,United States of America,Tennessee,2021,1,28
+1630205,Lamar,Stevens,Forward,6.6,230,7/9/1997,United States of America,Penn State,2020,,
+1630191,Isaiah,Stewart,Forward Center,6.8,250,5/22/2001,United States of America,Washington,2020,1,16
+1629622,Max,Strus,Guard Forward,6.5,215,3/28/1996,United States of America,DePaul,2019,,
+1630591,Jalen,Suggs,Guard,6.5,205,6/3/2001,United States of America,Gonzaga,2021,1,5
+1628410,Edmond,Sumner,Guard,6.4,196,12/31/1995,United States of America,Xavier,2017,2,52
+1631306,Cole,Swider,Forward,6.9,220,5/8/1999,United States of America,Syracuse,2022,,
+1630256,Jae'Sean,Tate,Forward,6.5,230,10/28/1995,United States of America,Ohio State,2020,,
+1628369,Jayson,Tatum,Forward Guard,6.8,210,3/3/1998,United States of America,Duke,2017,1,3
+1630678,Terry,Taylor,Forward,6.4,230,9/23/1999,United States of America,Austin Peay,2021,,
+202066,Garrett,Temple,Guard Forward,6.6,195,5/8/1986,United States of America,Louisiana State,2009,,
+1631207,Dalen,Terry,Forward,6.7,195,7/12/2002,United States of America,Arizona,2022,1,18
 1628464,Daniel,Theis,Forward Center,6.8,245,4/4/1992,Germany,Brose Bamberg,2017,,
 1630560,Cam,Thomas,Guard,6.3,210,10/13/2001,Japan,Louisiana State,2021,1,27
-202691,Klay,Thompson,Guard,6.6,220,2/8/1990,USA,Washington State,2011,1,11
+202691,Klay,Thompson,Guard,6.6,220,2/8/1990,United States of America,Washington State,2011,1,11
 202684,Tristan,Thompson,Center Forward,6.9,254,3/13/1991,Canada,Texas.Austin,2011,1,4
-1630550,JT,Thor,Forward,6.9,203,8/26/2002,USA,Auburn,2021,2,37
-1629680,Matisse,Thybulle,Guard Forward,6.5,201,3/4/1997,USA,Washington,2019,1,20
-1630214,Xavier,Tillman,Forward,6.7,245,1/12/1999,USA,Michigan State,2020,2,35
-1630225,Isaiah,Todd,Forward,6.9,219,10/17/2001,USA,NBA G League Ignite,2021,2,31
-1630167,Obi,Toppin,Forward,6.9,220,3/4/1998,USA,Dayton,2020,1,8
-1629308,Juan,Toscano.Anderson,Forward,6.6,209,4/10/1993,USA,Marquette,2019,,
-1626157,Karl.Anthony,Towns,Center Forward,7.0,248,11/15/1995,USA,Kentucky,2015,1,1
-1629018,Gary,Trent Jr.,Guard Forward,6.5,209,1/18/1999,USA,Duke,2018,2,37
-200782,P.J.,Tucker,Forward,6.5,245,5/5/1985,USA,Texas,2006,2,35
-1626167,Myles,Turner,Center Forward,6.1,250,3/24/1996,USA,Texas,2015,1,11
-1630649,Stanley,Umude,Guard,6.6,210,4/12/1999,USA,Arkansas,2022,,
+1630550,JT,Thor,Forward,6.9,203,8/26/2002,United States of America,Auburn,2021,2,37
+1629680,Matisse,Thybulle,Guard Forward,6.5,201,3/4/1997,United States of America,Washington,2019,1,20
+1630214,Xavier,Tillman,Forward,6.7,245,1/12/1999,United States of America,Michigan State,2020,2,35
+1630225,Isaiah,Todd,Forward,6.9,219,10/17/2001,United States of America,NBA G League Ignite,2021,2,31
+1630167,Obi,Toppin,Forward,6.9,220,3/4/1998,United States of America,Dayton,2020,1,8
+1629308,Juan,Toscano.Anderson,Forward,6.6,209,4/10/1993,United States of America,Marquette,2019,,
+1626157,Karl.Anthony,Towns,Center Forward,7,248,11/15/1995,United States of America,Kentucky,2015,1,1
+1629018,Gary,Trent Jr.,Guard Forward,6.5,209,1/18/1999,United States of America,Duke,2018,2,37
+200782,P.J.,Tucker,Forward,6.5,245,5/5/1985,United States of America,Texas,2006,2,35
+1626167,Myles,Turner,Center Forward,6.1,250,3/24/1996,United States of America,Texas,2015,1,11
+1630649,Stanley,Umude,Guard,6.6,210,4/12/1999,United States of America,Arkansas,2022,,
 202685,Jonas,Valanciunas,Center,6.1,265,5/6/1992,Lithuania,Lietuvos rytas Vilnius,2011,1,5
-1627832,Fred,VanVleet,Guard,6.0,197,2/25/1994,USA,Wichita State,2016,,
-1629020,Jarred,Vanderbilt,Forward,6.8,214,4/3/1999,USA,Kentucky,2018,2,41
-1630170,Devin,Vassell,Guard Forward,6.5,200,8/23/2000,USA,Florida State,2020,1,11
-1629216,Gabe,Vincent,Guard,6.2,200,6/14/1996,USA,California.Santa Barbara,2019,,
-203943,Noah,Vonleh,Forward,6.1,257,8/24/1995,USA,Indiana,2014,1,9
+1627832,Fred,VanVleet,Guard,6,197,2/25/1994,United States of America,Wichita State,2016,,
+1629020,Jarred,Vanderbilt,Forward,6.8,214,4/3/1999,United States of America,Kentucky,2018,2,41
+1630170,Devin,Vassell,Guard Forward,6.5,200,8/23/2000,United States of America,Florida State,2020,1,11
+1629216,Gabe,Vincent,Guard,6.2,200,6/14/1996,United States of America,California.Santa Barbara,2019,,
+203943,Noah,Vonleh,Forward,6.1,257,8/24/1995,United States of America,Indiana,2014,1,9
 202696,Nikola,Vucevic,Center,6.1,260,10/24/1990,Montenegro,Southern California,2011,1,16
-1629731,Dean,Wade,Forward Center,6.9,228,11/20/1996,USA,Kansas State,2019,,
+1629731,Dean,Wade,Forward Center,6.9,228,11/20/1996,United States of America,Kansas State,2019,,
 1630532,Franz,Wagner,Forward,6.1,220,8/27/2001,Germany,Michigan,2021,1,8
 1629021,Moritz,Wagner,Forward Center,6.1,245,4/26/1997,Germany,Michigan,2018,1,25
-1630688,Ish,Wainright,Forward,6.5,250,9/12/1994,USA,Baylor,2021,,
-1631133,Jabari,Walker,Forward,6.7,200,7/30/2002,USA,Colorado,2022,2,57
-202689,Kemba,Walker,Guard,6.0,184,5/8/1990,USA,Connecticut,2011,1,9
-1629022,Lonnie,Walker IV,Guard Forward,6.4,204,12/14/1998,USA,Miami,2018,1,18
-202322,John,Wall,Guard,6.3,210,9/6/1990,USA,Kentucky,2010,1,1
-203933,T.J.,Warren,Forward,6.8,220,9/5/1993,USA,North Carolina State,2014,1,14
-1629023,P.J.,Washington,Forward,6.7,230,8/23/1998,USA,Kentucky,2019,1,12
+1630688,Ish,Wainright,Forward,6.5,250,9/12/1994,United States of America,Baylor,2021,,
+1631133,Jabari,Walker,Forward,6.7,200,7/30/2002,United States of America,Colorado,2022,2,57
+202689,Kemba,Walker,Guard,6,184,5/8/1990,United States of America,Connecticut,2011,1,9
+1629022,Lonnie,Walker IV,Guard Forward,6.4,204,12/14/1998,United States of America,Miami,2018,1,18
+202322,John,Wall,Guard,6.3,210,9/6/1990,United States of America,Kentucky,2010,1,1
+203933,T.J.,Warren,Forward,6.8,220,9/5/1993,United States of America,North Carolina State,2014,1,14
+1629023,P.J.,Washington,Forward,6.7,230,8/23/1998,United States of America,Kentucky,2019,1,12
 1630613,Duane,Washington Jr.,Guard,6.2,197,3/24/2000,Germany,Ohio State,2021,,
-1631102,TyTy,Washington Jr.,Guard,6.3,195,11/15/2001,USA,Kentucky,2022,1,29
+1631102,TyTy,Washington Jr.,Guard,6.3,195,11/15/2001,United States of America,Kentucky,2022,1,29
 1629139,Yuta,Watanabe,Guard Forward,6.8,215,10/13/1994,Japan,George Washington,2018,,
-1630322,Lindy,Waters III,Forward,6.6,210,7/28/1997,USA,Oklahoma State,2021,,
-1630570,Trendon,Watford,Forward,6.8,237,11/9/2000,USA,Louisiana State,2021,,
-1631212,Peyton,Watson,Guard,6.7,200,9/11/2002,USA,UCLA,2022,1,30
-1631104,Blake,Wesley,Guard,6.4,185,3/16/2003,USA,Notre Dame,2022,1,25
-201566,Russell,Westbrook,Guard,6.3,200,11/12/1988,USA,UCLA,2008,1,4
-1629632,Coby,White,Guard,6.5,195,2/16/2000,USA,North Carolina,2019,1,7
-1628401,Derrick,White,Guard,6.4,190,7/2/1994,USA,Colorado,2017,1,29
+1630322,Lindy,Waters III,Forward,6.6,210,7/28/1997,United States of America,Oklahoma State,2021,,
+1630570,Trendon,Watford,Forward,6.8,237,11/9/2000,United States of America,Louisiana State,2021,,
+1631212,Peyton,Watson,Guard,6.7,200,9/11/2002,United States of America,UCLA,2022,1,30
+1631104,Blake,Wesley,Guard,6.4,185,3/16/2003,United States of America,Notre Dame,2022,1,25
+201566,Russell,Westbrook,Guard,6.3,200,11/12/1988,United States of America,UCLA,2008,1,4
+1629632,Coby,White,Guard,6.5,195,2/16/2000,United States of America,North Carolina,2019,1,7
+1628401,Derrick,White,Guard,6.4,190,7/2/1994,United States of America,Colorado,2017,1,29
 1631298,Jack,White,Forward,6.7,225,8/5/1997,Australia,Duke,2022,,
-1630580,Joe,Wieskamp,Guard Forward,6.6,205,8/23/1999,USA,Iowa,2021,2,41
-1630598,Aaron,Wiggins,Guard,6.5,190,1/2/1999,USA,Maryland,2021,2,55
+1630580,Joe,Wieskamp,Guard Forward,6.6,205,8/23/1999,United States of America,Iowa,2021,2,41
+1630598,Aaron,Wiggins,Guard,6.5,190,1/2/1999,United States of America,Maryland,2021,2,55
 203952,Andrew,Wiggins,Forward,6.7,197,2/23/1995,Canada,Kansas,2014,1,1
 1629623,Lindell,Wigginton,Guard,6.1,189,3/28/1998,Canada,Iowa State,2019,,
-1631214,Alondes,Williams,Guard,6.4,210,6/19/1999,USA,Wake Forest,2022,,
-1631495,Donovan,Williams,Guard,6.6,190,9/6/2001,USA,UNLV,2022,,
-1629684,Grant,Williams,Forward,6.6,236,11/30/1998,USA,Tennessee,2019,1,22
-1631114,Jalen,Williams,Guard Forward,6.5,211,4/14/2001,USA,Santa Clara,2022,1,12
-1631119,Jaylin,Williams,Forward,6.9,240,6/29/2002,USA,Arkansas,2022,2,34
-1631466,Jeenathan,Williams,Guard,6.5,205,2/12/1999,USA,Buffalo,2022,,
-1629026,Kenrich,Williams,Guard Forward,6.6,210,12/2/1994,USA,TCU,2018,,
-1631109,Mark,Williams,Center,7.0,240,12/16/2001,USA,Duke,2022,1,15
-1630172,Patrick,Williams,Forward,6.7,215,8/26/2001,USA,Florida State,2020,1,4
-1630533,Ziaire,Williams,Forward,6.9,185,9/12/2001,USA,Stanford,2021,1,10
-1629057,Robert,Williams III,Center Forward,6.9,237,10/17/1997,USA,Texas A&M,2018,1,27
-1631246,Vince,Williams Jr.,Guard,6.4,205,8/30/2000,USA,Virginia Commonwealth,2022,2,47
-1629627,Zion,Williamson,Forward,6.6,284,7/6/2000,USA,Duke,2019,1,1
-1629685,Dylan,Windler,Guard Forward,6.7,196,9/22/1996,USA,Belmont,2019,1,26
-1626159,Justise,Winslow,Forward Guard,6.6,222,3/26/1996,USA,Duke,2015,1,10
-1630164,James,Wiseman,Center,7.0,240,3/31/2001,USA,Memphis,2020,1,2
-1626174,Christian,Wood,Forward,6.9,214,9/27/1995,USA,UNLV,2015,,
-1626153,Delon,Wright,Guard,6.5,185,4/26/1992,USA,Utah,2015,1,20
-1630593,McKinley,Wright IV,Guard,5.1,192,10/25/1998,USA,Colorado,2021,,
-1628221,Gabe,York,Guard,6.3,190,8/2/1993,USA,Arizona,2021,,
-201152,Thaddeus,Young,Forward,6.8,235,6/21/1988,USA,Georgia Tech,2007,1,12
-1629027,Trae,Young,Guard,6.1,164,9/19/1998,USA,Oklahoma,2018,1,5
+1631214,Alondes,Williams,Guard,6.4,210,6/19/1999,United States of America,Wake Forest,2022,,
+1631495,Donovan,Williams,Guard,6.6,190,9/6/2001,United States of America,UNLV,2022,,
+1629684,Grant,Williams,Forward,6.6,236,11/30/1998,United States of America,Tennessee,2019,1,22
+1631114,Jalen,Williams,Guard Forward,6.5,211,4/14/2001,United States of America,Santa Clara,2022,1,12
+1631119,Jaylin,Williams,Forward,6.9,240,6/29/2002,United States of America,Arkansas,2022,2,34
+1631466,Jeenathan,Williams,Guard,6.5,205,2/12/1999,United States of America,Buffalo,2022,,
+1629026,Kenrich,Williams,Guard Forward,6.6,210,12/2/1994,United States of America,TCU,2018,,
+1631109,Mark,Williams,Center,7,240,12/16/2001,United States of America,Duke,2022,1,15
+1630172,Patrick,Williams,Forward,6.7,215,8/26/2001,United States of America,Florida State,2020,1,4
+1630533,Ziaire,Williams,Forward,6.9,185,9/12/2001,United States of America,Stanford,2021,1,10
+1629057,Robert,Williams III,Center Forward,6.9,237,10/17/1997,United States of America,Texas A&M,2018,1,27
+1631246,Vince,Williams Jr.,Guard,6.4,205,8/30/2000,United States of America,Virginia Commonwealth,2022,2,47
+1629627,Zion,Williamson,Forward,6.6,284,7/6/2000,United States of America,Duke,2019,1,1
+1629685,Dylan,Windler,Guard Forward,6.7,196,9/22/1996,United States of America,Belmont,2019,1,26
+1626159,Justise,Winslow,Forward Guard,6.6,222,3/26/1996,United States of America,Duke,2015,1,10
+1630164,James,Wiseman,Center,7,240,3/31/2001,United States of America,Memphis,2020,1,2
+1626174,Christian,Wood,Forward,6.9,214,9/27/1995,United States of America,UNLV,2015,,
+1626153,Delon,Wright,Guard,6.5,185,4/26/1992,United States of America,Utah,2015,1,20
+1630593,McKinley,Wright IV,Guard,5.1,192,10/25/1998,United States of America,Colorado,2021,,
+1628221,Gabe,York,Guard,6.3,190,8/2/1993,United States of America,Arizona,2021,,
+201152,Thaddeus,Young,Forward,6.8,235,6/21/1988,United States of America,Georgia Tech,2007,1,12
+1629027,Trae,Young,Guard,6.1,164,9/19/1998,United States of America,Oklahoma,2018,1,5
 1630209,Omer,Yurtseven,Center,6.1,275,6/19/1998,Turkey,Georgetown,2020,,
-203469,Cody,Zeller,Forward Center,6.1,240,10/5/1992,USA,Indiana,2013,1,4
-1627826,Ivica,Zubac,Center,7.0,240,3/18/1997,Croatia,Mega Basket,2016,2,32
+203469,Cody,Zeller,Forward Center,6.1,240,10/5/1992,United States of America,Indiana,2013,1,4
+1627826,Ivica,Zubac,Center,7,240,3/18/1997,Croatia,Mega Basket,2016,2,32
