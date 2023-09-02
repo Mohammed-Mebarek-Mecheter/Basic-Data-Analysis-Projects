@@ -8,10 +8,6 @@ The dataset includes comprehensive details on top creators' subscriber counts, v
 
 ## Key Features
 
-The dataset contains the following key features:
-
-## Key Features
-
 The dataset includes the following key features:
 
 - `rank`: The rank of the YouTuber in terms of subscribers.
@@ -73,10 +69,9 @@ git clone https://github.com/Mohammed-Mebarek-Mecheter/Basic-Data-Analysis-Proje
 cd Global YouTube Statistics
 Install required libraries:
 pip install pandas geopandas matplotlib seaborn
-
+```
 Run the Python scripts mentioned in the project steps to perform the data analysis and visualization.
 interests or expand the project further.
-```
 
 ## Acknowledgments
 The [dataset](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023) was sourced from Kaggle.
@@ -85,7 +80,3 @@ This project is for educational and research purposes.
 Feel free to explore and modify the project to gain insights from the "Global YouTube Statistics 2023 Dataset."
 
 Author: Mohammed Mebarek Mecheter
-
-## Conclusion
-
-This README provides an overview of the Global YouTube Statistics 2023 project, including dataset description, project steps, and an in-depth look at analyzing trends over time.
