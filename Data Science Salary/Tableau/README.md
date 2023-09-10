@@ -1,5 +1,3 @@
-Sure, here's a README.md format documentation for the Tableau project based on the dataset analysis:
-
 # Data Science Salary Trends Analysis Tableau Project
 
 This Tableau project aims to explore and visualize the trends in salaries related to data science jobs based on various dimensions and measures using a provided dataset. The project encompasses a wide range of visualizations, from bar charts and line plots to scatter plots and heatmaps, offering a comprehensive understanding of the dataset.
